@@ -1,7 +1,6 @@
-### **CAPÍTULO X: UNIÓN HIPOSTÁTICA**
+# **Unión hipostática**
 
-#### **Introducción**
-La unión hipostática se refiere a la coexistencia de las naturalezas divina y humana en la persona de Jesucristo. La Biblia enseña que Jesús es completamente Dios y completamente hombre, sin que una naturaleza anule o disminuya a la otra. 
+Se refiere a la coexistencia de las naturalezas divina y humana en la persona de Jesucristo. La Biblia enseña que Jesús es completamente Dios y completamente hombre, sin que una naturaleza anule o disminuya a la otra. 
 
 **Versículos clave:**  
 - **Lucas 1:35**: La concepción de Jesús por el Espíritu Santo.  
@@ -13,7 +12,7 @@ La unión hipostática se refiere a la coexistencia de las naturalezas divina y 
 
 ---
 
-#### **Base Histórica**
+## **1. Base Histórica**
 El Concilio de Calcedonia (451 d.C.) definió la doctrina de la unión hipostática, rechazando el monofisismo (que negaba la humanidad de Cristo) y el nestorianismo (que separaba las naturalezas). Se estableció que Jesucristo es "verdadero Dios y verdadero hombre".
 
 **Versículos clave:**  
@@ -21,7 +20,7 @@ El Concilio de Calcedonia (451 d.C.) definió la doctrina de la unión hipostát
 
 ---
 
-#### **Base Teológica**
+## **2. Base Teológica**
 La palabra *hipóstasis* (griego: ὑπόστασις) aparece en el NT y se refiere a la "realidad fundamental". Se utilizó para describir la unión de las dos naturalezas en Cristo.
 
 **Versículos clave:**  
@@ -37,7 +36,7 @@ La palabra *hipóstasis* (griego: ὑπόστασις) aparece en el NT y se ref
 
 ---
 
-#### **Base Soteriológica**
+## **3. Base Soteriológica**
 La unión hipostática es esencial para la salvación. Cristo, siendo Dios y hombre, pudo ser el sacrificio perfecto.
 
 **Versículos clave:**  
@@ -58,7 +57,7 @@ La unión hipostática es esencial para la salvación. Cristo, siendo Dios y hom
 
 ---
 
-#### **Otros aspectos de la Unión Hipostática**
+## **4. Otros aspectos de la Unión Hipostática**
 Jesús es Rey de reyes y Sumo Sacerdote, conforme al orden de Melquisedec.
 
 **Versículos clave:**  
@@ -79,7 +78,7 @@ Jesús es Rey de reyes y Sumo Sacerdote, conforme al orden de Melquisedec.
 
 ---
 
-### **Existencias en Cristo**
+## **5. Existencias en Cristo**
 La unión hipostática plantea la cuestión de cuántas existencias hay en Jesucristo. Para responder, es importante distinguir entre *existencia* y *subsistencia*:  
 
 - **Existencia:** Es la realidad concreta de un ser.  
@@ -106,7 +105,7 @@ San Agustín explicó que el envío del Hijo no significaba una diferencia de es
 
 ---
 
-#### **Comunicación de Idiomas**
+## **6. Comunicación de Idiomas**
 Se refiere a la atribución de cualidades divinas y humanas a Jesús sin confusión de naturalezas.
 
 **Versículos clave:**  

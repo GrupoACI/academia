@@ -1,8 +1,8 @@
-## **Capítulo XI: Comienzo del Ministerio Terrenal de Jesús**  
+# **Comienzo del Ministerio Terrenal de Jesús**  
 
-El capítulo trata sobre el inicio del ministerio de Jesús, centrándose en **su bautismo** y **las tentaciones en el desierto**. Se analiza cómo estos eventos marcan el cumplimiento de la misión redentora del Verbo encarnado y su preparación para proclamar el Reino de Dios.  
+El inicio del ministerio de Jesús se centra en **su bautismo** y **las tentaciones en el desierto**. Se analiza cómo estos eventos marcan el cumplimiento de la misión redentora del Verbo encarnado y su preparación para proclamar el Reino de Dios.  
 
-### **1. Introducción: Jesús viene a buscar lo perdido**  
+## **1. Jesús viene a buscar lo perdido**  
 Se enfatiza que el ministerio terrenal de Jesús no fue un evento casual, sino parte de un plan divino ya establecido desde antes de la creación.  
 - **Lucas 19:10**: "El Hijo del Hombre vino a buscar y a salvar lo que se había perdido."
 - **Génesis 3:9**: Dios llama a Adán después de la caída: "¿Dónde estás tú?" Esta pregunta no es por ignorancia, sino para provocar reflexión en el pecador.
@@ -19,12 +19,12 @@ El bautismo marca el **comienzo público del ministerio de Jesús** y se encuent
 - **Lucas 3:21-22**  
 - **Juan 1:32-34** (testimonio del Bautista sobre la presencia visible del Espíritu Santo).  
 
-### **2.1. Jesús viene a Juan para ser bautizado**  
+### **Jesús viene a Juan para ser bautizado**  
 Jesús se presenta a Juan el Bautista en el Jordán para ser bautizado, a pesar de que Juan predicaba un **bautismo de arrepentimiento**.  
 - **Mateo 3:14**: Juan se opone: "Yo necesito ser bautizado por ti, ¿y tú vienes a mí?"  
 - **Lucas 1:36**: Juan y Jesús eran parientes; su madre, Elisabet, ya sabía que Jesús era el Mesías (**Lucas 1:42-43**: "El niño saltó en mi vientre de gozo").  
 
-### **2.2. La razón del bautismo de Jesús**  
+### **La razón del bautismo de Jesús**  
 Jesús responde a Juan:  
 - **Mateo 3:15**: "Deja ahora, porque así conviene que cumplamos toda justicia."  
 Esto indica que el bautismo no era por necesidad de arrepentimiento, sino **para identificarse con los pecadores** y cumplir la voluntad del Padre.  
@@ -34,7 +34,7 @@ Diferentes explicaciones sobre su bautismo incluyen:
 2. **Consagración para su ministerio mesiánico** (*Daniel 9:24*: "para traer justicia perdurable").  
 3. **Inauguración del sacerdocio según el orden de Melquisedec** (*Salmo 110:4, Hebreos 5:6*).  
 
-### **2.3. El Espíritu Santo desciende y la voz del Padre**  
+### **El Espíritu Santo desciende y la voz del Padre**  
 - **Mateo 3:16**: "Los cielos fueron abiertos, y vio al Espíritu de Dios que descendía como paloma."  
 - **Lucas 4:18-19** (citando Isaías 61:1-2): "El Espíritu del Señor está sobre mí, por cuanto me ha ungido..."  
 - **Mateo 3:17**: "Este es mi Hijo amado, en quien tengo complacencia."  
@@ -57,9 +57,7 @@ Después del bautismo, Jesús es **llevado por el Espíritu** al desierto para s
 2. La tentación ocurre **en la esfera de su humanidad**, porque Dios **no** puede ser tentado (*Santiago 1:13*).  
 3. La prueba demuestra que **Cristo es el segundo Adán** (*Romanos 5:12-19*).  
 
----
-
-### **3.1. Primera tentación: Los deseos de la carne**  
+### **Primera tentación: Los deseos de la carne**  
 - **Mateo 4:3-4 / Lucas 4:3-4**: Satanás dice: "Si eres Hijo de Dios, di que estas piedras se conviertan en pan."  
 - **Jesús responde con Deuteronomio 8:3**: "No sólo de pan vivirá el hombre, sino de toda palabra que sale de la boca de Dios."  
 
@@ -67,9 +65,7 @@ Después del bautismo, Jesús es **llevado por el Espíritu** al desierto para s
 - Jesús **no usa su poder para sí mismo**, sino que confía en el Padre.  
 - **Juan 4:34**: "Mi comida es hacer la voluntad del que me envió."  
 
----
-
-### **3.2. Segunda tentación: Los deseos de los ojos**  
+### **Segunda tentación: Los deseos de los ojos**  
 - **Mateo 4:5-7 / Lucas 4:9-12**: Satanás lo lleva al pináculo del templo y le dice: "Si eres Hijo de Dios, échate abajo."  
 - **Cita Salmo 91:11-12**, pero omite "en todos tus caminos" (distorsionando la Escritura).  
 - **Jesús responde con Deuteronomio 6:16**: "No tentarás al Señor tu Dios."  
@@ -78,9 +74,7 @@ Después del bautismo, Jesús es **llevado por el Espíritu** al desierto para s
 - No probar a Dios exigiendo señales. (*Éxodo 17:1-7*: Israel probó a Dios en Masá y Meriba).  
 - **1 Corintios 10:9**: "Ni tentemos a Cristo, como algunos de ellos lo tentaron y perecieron."  
 
----
-
-### **3.3. Tercera tentación: La soberbia de la vida**  
+### **Tercera tentación: La soberbia de la vida**  
 - **Mateo 4:8-10 / Lucas 4:5-8**: Satanás le muestra los reinos del mundo y le ofrece dominio si lo adora.  
 - **Jesús responde con Deuteronomio 6:13; 10:20**: "Al Señor tu Dios adorarás, y a él solo servirás."  
 
@@ -97,7 +91,7 @@ Después del bautismo, Jesús es **llevado por el Espíritu** al desierto para s
 
 ---
 
-## **Resumen Final**
+## **5. Conclusión**
 Este capítulo muestra el inicio del ministerio de Jesús mediante:  
 1. **Su bautismo** como identificación con los pecadores y consagración al ministerio.  
 2. **Las tentaciones** como una prueba de su obediencia y victoria sobre Satanás.  

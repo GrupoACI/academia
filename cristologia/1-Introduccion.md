@@ -1,6 +1,5 @@
-# **INTRODUCCIÓN**
+# **Introducción**
 
-## **1. Introducción General**
 La **cristología** es el estudio de la persona y obra de Jesucristo, Hijo de Dios, fundamento de la fe cristiana. Este estudio se desarrolla en cuatro áreas principales:
 
 1. **Cristología histórica**  
@@ -25,7 +24,7 @@ La **cristología** es el estudio de la persona y obra de Jesucristo, Hijo de Di
 
 ---
 
-## **2. Propósito del Estudio**
+## **1. Propósito del Estudio**
 El objetivo de la cristología es presentar el conocimiento detallado sobre Jesucristo en relación con:
 
 - **La Trinidad:** Jesús es el Hijo eterno de Dios (Juan 1:1; Hebreos 1:3).
@@ -37,25 +36,25 @@ La **soteriología** (doctrina de la salvación) no se entiende sin la cristolog
 
 ---
 
-## **3. Bases Fundamentales de la Cristología**
+## **2. Bases Fundamentales de la Cristología**
 
-### **3.1 La Escritura como Base**
+### **La Escritura como Base**
 - La Biblia es la única fuente fiable de la verdad sobre Jesucristo.  
 - Inspirada por Dios y sin error:  
   *"Porque nunca la profecía fue traída por voluntad humana, sino que los santos hombres de Dios hablaron siendo inspirados por el Espíritu Santo"* (2 Pedro 1:21).  
   *"Toda la Escritura es inspirada por Dios, y útil para enseñar, para redargüir, para corregir, para instruir en justicia"* (2 Timoteo 3:16).  
 
-### **3.2 Problema de la Tradición**
+### **Problema de la Tradición**
 - Desde los primeros siglos han surgido tradiciones y leyendas que distorsionan la figura de Cristo.  
 - Algunos relatos no bíblicos presentan a Jesús de forma mística o legendaria, lo que desvía de la verdad bíblica.  
 
-### **3.3 Crítica Humanista**
+### **Crítica Humanista**
 - Movimientos racionalistas han intentado negar los milagros de Jesús y su resurrección.  
 - La Alta Crítica busca desmitificar la Escritura, pero sin pruebas sólidas.  
 - Jesús advirtió sobre la incredulidad de los hombres:  
   *"Si no creen a Moisés y a los profetas, tampoco se persuadirán aunque alguno se levantare de los muertos"* (Lucas 16:31).  
 
-### **3.4 Ciencias Auxiliares**
+### **Ciencias Auxiliares**
 1. **Historia**  
    - Confirma los hechos bíblicos con documentos extrabíblicos.  
 2. **Geografía**  
@@ -67,7 +66,7 @@ La **soteriología** (doctrina de la salvación) no se entiende sin la cristolog
 
 ---
 
-## **4. Metodología**
+## **3. Metodología**
 
 **Cristología descendente**  
    - Parte de la divinidad eterna de Cristo y su encarnación.  
@@ -78,7 +77,7 @@ La **soteriología** (doctrina de la salvación) no se entiende sin la cristolog
      
 ---
 
-## **5. Relación de la Cristología con Otras Disciplinas Teológicas**
+## **4. Relación de la Cristología con Otras Disciplinas Teológicas**
 1. **Teología Propia**  
    - Jesús es parte de la Trinidad desde la eternidad.  
 2. **Pneumatología**  
@@ -94,7 +93,7 @@ La **soteriología** (doctrina de la salvación) no se entiende sin la cristolog
    
 ---
 
-## **Conclusión**
+## **5. Conclusión**
 - La cristología es clave para entender la fe cristiana.  
 - La Biblia es la única fuente inerrante para conocer a Cristo.  
 - Se usará el método descendente para el estudio, basado en la revelación bíblica.  

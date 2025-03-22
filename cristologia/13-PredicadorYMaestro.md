@@ -1,13 +1,12 @@
-## **CAPÍTULO XIII: PREDICADOR Y MAESTRO**
+# **Predicador y Maestro**
 
-### **Introducción**
 La misión de Jesucristo es la culminación del plan eterno de redención (Gálatas 4:4). Aquellos que convivieron con Él lo vieron lleno de gracia y verdad (Juan 1:14). Dios se reveló en Cristo de forma suprema, ya que, si bien la revelación escrita es completa, no alcanza la infinitud divina. Jesucristo no solo proclamó el mensaje de Dios, sino que Él mismo es el mensaje absoluto (Hebreos 1:1-2).
 
 Jesús llamó a la humanidad al arrepentimiento, enfatizando la restauración de la relación con Dios (Ezequiel 18:32; 33:11). Su proclamación del Evangelio encontró su razón de ser en la cruz, donde el predicador se hizo sacrificio expiatorio. En el Antiguo Testamento se ungía a profetas, sacerdotes y reyes; de Cristo se dice que fue ungido para "predicar el evangelio a los pobres" (Lucas 4:18). Calvino enfatizó el triple oficio de Cristo como profeta, sacerdote y rey, restaurando lo que el primer Adán había perdido.
 
 ---
 
-### **El Profeta**
+## **1. El Profeta**
 Jesús fue el cumplimiento del triple oficio de profeta, sacerdote y rey. En el Antiguo Testamento, los profetas eran llamados de diferentes maneras:
 - **Nabí**: el que anuncia el mensaje de Dios.
 - **Ro’eh**: vidente, como Samuel (1 Samuel 9:9).
@@ -19,7 +18,9 @@ Jesús profetizó sobre el futuro de Jerusalén (Mateo 24; Lucas 19:41-44), su m
 
 La revelación definitiva está en Jesús (Hebreos 1:1-2; Apocalipsis 1:1; 22:20). Toda revelación debe contrastarse con la Escritura (2 Pedro 1:21; 1 Juan 2:20; 4:1; Isaías 8:20).
 
-### **Proclamador del Evangelio**
+---
+
+## **2. Proclamador del Evangelio**
 Jesús proclamó el Evangelio del Reino (Marcos 1:15; Mateo 3:1). El Evangelio se divide en:
 1. **Evangelio del Reino**: anuncio del gobierno de Dios (2 Samuel 7:16).
 2. **Evangelio de la Gracia**: salvación por la fe en Cristo (Romanos 1:16).
@@ -28,7 +29,9 @@ Jesús proclamó el Evangelio del Reino (Marcos 1:15; Mateo 3:1). El Evangelio s
 
 Jesús predicaba el arrepentimiento (Hechos 17:30; Mateo 11:28) y advertía sobre la incredulidad (Juan 3:16-18, 36). Enseñaba en las sinagogas (Lucas 4:16; Mateo 9:35), en el templo (Mateo 21:23; Juan 7:14, 28; 8:2, 20), al aire libre (Mateo 5:1-2), junto al mar (Marcos 4:1), en caminos y montañas (Marcos 8:27; 10:32), y en casas (Marcos 2:2).
 
-### **El Maestro**
+---
+
+## **3. El Maestro**
 Jesús fue reconocido como maestro por Nicodemo (Juan 3:2). Enseñaba en:
 - **Casas** (Mateo 9:10; Marcos 2:1).
 - **Sinagogas** (Lucas 4:16; Mateo 9:35).
@@ -114,7 +117,9 @@ Parábola: Ocasión (referencia)
 30. Las diez minas: En casa de Zaqueo (Lc. 1912-27).
 31. La exégesis puede hacer un análisis expositivo de cada una de las parábolas.
 
-### **Figuras del lenguaje**:
+---
+
+## **4. Figuras del lenguaje**:
 
 Jesús empleó diversas figuras del lenguaje para hacer sus enseñanzas más comprensibles y memorables. Estas herramientas le permitieron transmitir verdades espirituales profundas de manera accesible para sus oyentes. Algunas de las figuras más utilizadas fueron:
 
@@ -136,7 +141,9 @@ Aquí tienes un resumen del subtítulo **"Controversias de Jesús"**:
 
 Jesús tuvo múltiples enfrentamientos con los líderes religiosos de su tiempo, principalmente con los fariseos, saduceos y escribas. Estas controversias surgieron porque Jesús desafió sus interpretaciones de la Ley, su hipocresía y su autoridad espiritual sobre el pueblo.  
 
-### **Principales controversias**  
+---
+
+## **5. Principales controversias**  
 
 1. **Con los fariseos**  
    - **Legalismo y Tradición**: Jesús los confrontó por priorizar tradiciones humanas sobre los mandamientos de Dios (Mateo 15:1-9).  
@@ -160,12 +167,11 @@ Aquí tienes un resumen del subtítulo **"Mensaje profético de Jesús"**, inclu
 
 ---
 
-### **MENSAJE PROFÉTICO DE JESÚS**  
+## **6. Mensaje profético de Jesús**  
 Jesús no solo predicó el Evangelio, sino que también hizo múltiples profecías, especialmente sobre su propia misión, el destino de Jerusalén y los eventos del fin de los tiempos. Su mensaje profético abarcó advertencias, juicio y esperanza para sus seguidores.  
 
 
-
-#### **ANUNCIO DE SU MUERTE**  
+### **Anuncio de su muerte**  
 Desde el inicio de su ministerio, Jesús dejó claro que su misión incluía su muerte y resurrección. A medida que avanzaba su enseñanza, reveló con más detalle lo que sucedería:  
 
 1. **Primer anuncio**: Jesús les explicó a sus discípulos que debía sufrir, ser rechazado por los líderes religiosos, morir y resucitar al tercer día (Mateo 16:21; Marcos 8:31; Lucas 9:22). Pedro intentó disuadirlo, pero Jesús lo reprendió, diciendo: “¡Apártate de mí, Satanás!” (Mateo 16:23).  
@@ -181,7 +187,7 @@ Desde el inicio de su ministerio, Jesús dejó claro que su misión incluía su 
 Jesús dejó claro que su muerte no era un accidente, sino parte del plan divino para la redención del mundo.  
 
 
-#### **EL SERMÓN PROFÉTICO**  
+### **El sermón profético**  
 El llamado **Sermón Profético** o **Discurso del Monte de los Olivos** (Mateo 24-25; Marcos 13; Lucas 21) es una de las enseñanzas más extensas de Jesús sobre el futuro. Se centra en tres temas principales:  
 
 1. **Profecía sobre la destrucción de Jerusalén**  
@@ -202,6 +208,3 @@ El llamado **Sermón Profético** o **Discurso del Monte de los Olivos** (Mateo 
 En este sermón, Jesús combina profecías a corto plazo (la destrucción de Jerusalén) con eventos futuros aún por cumplirse (su segunda venida y el juicio final).  
 
 El mensaje profético de Jesús enfatiza la soberanía de Dios sobre la historia, la certeza de su regreso y la necesidad de estar preparados espiritualmente. Sus profecías sobre su muerte se cumplieron exactamente, lo que da confianza en la veracidad de sus anuncios sobre el futuro.  
-
-
----

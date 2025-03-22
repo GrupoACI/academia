@@ -1,12 +1,11 @@
 # Títulos y Nombres Divinos
 
-## **Introducción**
-Se argumenta que la deidad de Cristo ha sido confirmada a través de la revelación bíblica. La controversia sobre su divinidad surgió principalmente debido a su encarnación. Sin embargo, la Escritura proporciona pruebas contundentes de su divinidad a través de los títulos y nombres que se le atribuyen.
+La deidad de Cristo ha sido confirmada a través de la revelación bíblica. La controversia sobre su divinidad surgió principalmente debido a su encarnación. Sin embargo, la Escritura proporciona pruebas contundentes de su divinidad a través de los títulos y nombres que se le atribuyen.
 
 ---
 
-## **Nombres y títulos de la Deidad**
-### **1. Dios**
+## **1. Nombres y títulos de la Deidad**
+### **Dios**
 Cristo es llamado Dios en múltiples pasajes:
 
 - **Salmo 82:1, 5** – Habla de jueces llamados "dioses", lo que Jesús usa para argumentar su propia deidad (Juan 10:33-36).
@@ -23,7 +22,7 @@ Cristo es llamado Dios en múltiples pasajes:
 - **Tito 2:13** – "La manifestación gloriosa de nuestro gran Dios y Salvador Jesucristo".
 - **Hebreos 1:8** – "Tu trono, oh Dios, por el siglo del siglo".
 
-### **2. Yahvé o Jehová**
+### **Yahvé o Jehová**
 Jesús es identificado con Yahvé del Antiguo Testamento:
 
 - **Éxodo 3:14** – "Yo soy el que soy".
@@ -34,7 +33,7 @@ Jesús es identificado con Yahvé del Antiguo Testamento:
 - **Salmo 102:25** – Aplicado a Jesús en Hebreos 1:10.
 - **Isaías 8:13-14** – "Jehová será piedra para tropezar", aplicado a Jesús en 1 Pedro 2:7-8.
 
-### **3. Señor**
+### **Señor**
 - **Deuteronomio 6:4 y Marcos 12:29** – "El Señor nuestro Dios, el Señor uno es".
 - **Filipenses 2:11** – "Toda lengua confiese que Jesucristo es el Señor".
 - **Romanos 10:9** – "Si confesares con tu boca que Jesús es el Señor, serás salvo".
@@ -42,8 +41,8 @@ Jesús es identificado con Yahvé del Antiguo Testamento:
 
 ---
 
-## **Nombres de Relación Eterna**
-### **4. Hijo de Dios**
+## **2. Nombres de Relación Eterna**
+### **Hijo de Dios**
 Este título implica una relación eterna con el Padre:
 
 - **Mateo 4:3, 6; 8:29; 14:33; 26:63; 27:40, 43, 54**.
@@ -51,15 +50,13 @@ Este título implica una relación eterna con el Padre:
 - **Lucas 1:35; 4:3, 9, 41; 8:28; 22:70**.
 - **Juan 1:34, 49; 3:18; 5:25; 9:35; 10:36; 11:4, 27**.
 
----
-
-### **5. Logos, Verbo**  
+### **Logos, Verbo**  
 Expresión clave en la cristología de Juan:  
 - **Juan 1:1** – "En el principio era el Verbo, y el Verbo era con Dios, y el Verbo era Dios".  
 - **Juan 1:14** – "Y aquel Verbo fue hecho carne".  
 - **Apocalipsis 19:13** – "Y su nombre es el Verbo de Dios".  
 
-### **6. Unigénito**  
+### **Unigénito**  
 Indica la relación única de Cristo con el Padre:  
 - **Juan 1:14** – "Gloria como del unigénito del Padre".  
 - **Juan 1:18** – "El unigénito Hijo, que está en el seno del Padre, él le ha dado a conocer".  
@@ -67,21 +64,21 @@ Indica la relación única de Cristo con el Padre:
 
 ---
 
-## **Nombres y Títulos Divino-Humanos**  
-### **7. Hijo del Hombre**  
+## **3. Nombres y Títulos Divino-Humanos**  
+### **Hijo del Hombre**  
 El título más usado por Jesús para referirse a sí mismo:  
 - **Daniel 7:13-14** – Visión del Hijo del Hombre con poder y gloria.  
 - **Mateo 8:20; 9:6; 12:8; 24:30; 26:64**.  
 - **Marcos 2:28; 10:45; 14:62**.  
 - **Lucas 19:10** – "El Hijo del Hombre vino a buscar y a salvar lo que se había perdido".  
 
-### **8. Cristo, Mesías**  
+### **Cristo, Mesías**  
 Jesús es el Ungido de Dios, el Mesías prometido:  
 - **Mateo 1:16; 16:16; 26:63-64**.  
 - **Juan 1:41; 4:25-26; 20:31**.  
 - **Hechos 5:42; 9:22; 17:3**.  
 
-### **9. Jesús**  
+### **Jesús**  
 Nombre dado por Dios con significado profético:  
 - **Mateo 1:21** – "Llamarás su nombre Jesús, porque él salvará a su pueblo de sus pecados".  
 - **Lucas 1:31; 2:21**.  

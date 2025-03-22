@@ -1,11 +1,12 @@
 # **Jesús, Verdadero Hombre**  
 
-## **Introducción**  
-La cristología ha enfatizado la deidad de Cristo en los capítulos anteriores. Sin embargo, también es fundamental afirmar su humanidad. Jesús, aunque eternamente Dios (Juan 1:14), se encarnó, tomando forma de hombre, y experimentó el curso normal de la vida humana: gestación, nacimiento, infancia y madurez. Su historia está registrada en los Evangelios, desde su nacimiento hasta su ascensión.  
+Jesús, aunque eternamente Dios (Juan 1:14), se encarnó, tomando forma de hombre, y experimentó el curso normal de la vida humana: gestación, nacimiento, infancia y madurez. Su historia está registrada en los Evangelios, desde su nacimiento hasta su ascensión.  
 
 El Evangelio no presenta un Jesús de la historia distinto del Jesús de la fe. Su deidad y humanidad coexisten, y su encarnación lo llevó a compartir la vida humana, con sus limitaciones, necesidades fisiológicas y sufrimiento.  
 
-## **Datos que sustentan la doctrina de la cristología**  
+---
+
+## **1. Datos que sustentan la doctrina de la cristología**  
 
 ### **Los Evangelios**  
 Los Evangelios sinópticos (Mateo, Marcos y Lucas) y el Evangelio de Juan reflejan la humanidad de Jesús desde una perspectiva judía, sin cuestionar su realidad histórica.  
@@ -41,7 +42,9 @@ Juan enfatiza la unidad de la deidad y humanidad de Cristo, combatiendo el gnost
 
 Juan usa el término "carne" (sarx) para enfatizar la fragilidad y temporalidad de la humanidad en contraste con la eternidad de Dios (Isaías 40:6-8).  
 
-## **Doctrina de la iglesia**  
+---
+
+## **2. Doctrina de la iglesia**  
 
 Desde los primeros siglos, herejías como el **gnosticismo** y el **docetismo** negaban la realidad humana de Jesús:  
 
@@ -58,23 +61,25 @@ El **Concilio de Constantinopla** (381) reafirmó la plena deidad y humanidad de
 
 *"Por nosotros los hombres y por nuestra salvación descendió de los cielos y se encarnó por obra del Espíritu Santo y de María Virgen, y se hizo hombre..."*  
 
-## **Consecuencias de la humanidad de Jesús**  
+---
 
-### **1. La humanidad de Jesús es esencial para el discipulado**  
+## **3. Consecuencias de la humanidad de Jesús**  
+
+### **La humanidad de Jesús es esencial para el discipulado**  
 Jesús estableció la evangelización mundial y el discipulado (Mateo 28:18-20). Su vida es el modelo para los creyentes (Filipenses 1:21; Gálatas 2:20).  
 
 - **Seguir a Jesús implica vivir como Él vivió** (1 Pedro 2:21).  
 - **Los creyentes son llamados a la santidad y a sufrir por la fe** (2 Timoteo 3:12; Filipenses 1:29).  
 - **Jesús nos dejó huellas para seguir en los momentos difíciles** (Hebreos 12:3; Apocalipsis 2:10).  
 
-### **2. La humanidad de Jesús permite nuestra salvación**  
+### **La humanidad de Jesús permite nuestra salvación**  
 Si Jesús no hubiera sido verdaderamente hombre, su sacrificio no tendría valor redentor:  
 
 - **Jesús dio su carne por la vida del mundo** (Juan 6:51).  
 - **A través de su muerte venció el poder del diablo y la muerte** (Hebreos 2:14-15).  
 - **Negar su humanidad es rechazar la salvación y caer en el espíritu del anticristo** (1 Juan 4:2-3).  
 
-### **3. Jesús es nuestro modelo de humildad y servicio**  
+### **Jesús es nuestro modelo de humildad y servicio**  
 - **Jesús nos enseña a negarnos a nosotros mismos y tomar nuestra cruz** (Lucas 9:23).  
 - **Jesús es manso y humilde, y nos invita a aprender de Él** (Mateo 11:29).  
 - **Jesús lavó los pies de sus discípulos como ejemplo de servicio** (Juan 13:15).  

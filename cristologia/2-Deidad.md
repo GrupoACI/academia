@@ -1,6 +1,5 @@
-# CAPÍTULO II: DEIDAD
+# **Deidad**
 
-## 1. Introducción
 - Para comprender a Jesús, es fundamental partir de su condición divina como Hijo de Dios, segunda persona de la Trinidad.
 - Su vida en la tierra solo se entiende en relación con su naturaleza divino-humana.
 - Jesús es el único en la historia que está vinculado a la deidad de esta manera (Juan 1:14; Filipenses 2:6-8).

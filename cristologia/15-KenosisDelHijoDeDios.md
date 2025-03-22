@@ -1,9 +1,6 @@
----
+# **Vaciamiento del Hijo de Dios**  
 
-# **CAPÍTULO XV: KÉNOSIS DEL HIJO DE DIOS**  
-
-## **Introducción**  
-El capítulo comienza con la idea de que estudiar la **cristología** implica abordar la obra de Jesús, el **Hijo de Dios encarnado**, y su entrega personal en **obediencia suprema** hasta la **muerte de cruz**. Se distingue entre **limitación y humillación**:  
+Estudiar la **cristología** implica abordar la obra de Jesús, el **Hijo de Dios encarnado**, y su entrega personal (kénosis) en **obediencia suprema** hasta la **muerte de cruz**. Se distingue entre **limitación y humillación**:  
 - La **encarnación** introduce a Dios en la experiencia humana, **haciéndolo limitado**.  
 - La **humillación** implica un **descenso voluntario**, permitiéndole ser **siervo** para cumplir la **salvación**.  
 
@@ -15,7 +12,7 @@ La **cruz** es el punto culminante de la kénosis, lo que hace que la salvación
 
 ---
 
-## **LA HUMILLACIÓN DE DIOS**  
+## **1. La humillación de Dios**  
 
 El pasaje clave de la kénosis está en **Filipenses 2:6-8**:  
 > *“El cual, siendo en forma de Dios, no estimó el ser igual a Dios como cosa a que aferrarse, sino que se despojó a sí mismo, tomando forma de siervo, hecho semejante a los hombres; y estando en la condición de hombre, se humilló a sí mismo, haciéndose obediente hasta la muerte, y muerte de cruz.”*  
@@ -44,7 +41,7 @@ El verbo griego *kenóō* significa **vaciarse, anonadarse, despojarse**. Se tra
 
 ---
 
-## **LA CRUZ COMO HUMILLACIÓN ABSOLUTA**  
+## **2. La cruz como humillación absoluta**  
 
 ### **1. Significado de la Muerte de Cruz**  
 - La **crucifixión era la peor muerte posible**:  
@@ -60,7 +57,7 @@ El verbo griego *kenóō* significa **vaciarse, anonadarse, despojarse**. Se tra
 
 ---
 
-## **LA NECESIDAD DE LA KÉNOSIS**  
+## **3. La necesidad de la kénosis**  
 
 ### **1. Relación entre Justicia y Gracia**  
 - Dios **no ignora el pecado**, pero en Cristo **se une la justicia y la misericordia**.  
@@ -74,7 +71,7 @@ El verbo griego *kenóō* significa **vaciarse, anonadarse, despojarse**. Se tra
 
 ---
 
-# **CONCLUSIÓN: EL AMOR KENÓTICO DE DIOS**  
+# **4. Conclusión**  
 
 - **Dios es amor, y la cruz es la máxima manifestación de ese amor** (*1 Juan 4:9-10*).  
 - **La kénosis permite entender la obra redentora**:  
@@ -83,5 +80,3 @@ El verbo griego *kenóō* significa **vaciarse, anonadarse, despojarse**. Se tra
   - La **gracia de Dios** es el regalo supremo en la cruz.  
 
 > *"Venid a mí todos los que estáis trabajados y cargados, y yo os haré descansar."* (*Mateo 11:28*).  
-
----

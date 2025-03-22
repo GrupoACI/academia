@@ -1,7 +1,6 @@
-# LA PERSONA DIVINA**  
+# **La Persona Divina**  
 
-## **Introducción**  
-El capítulo anterior estableció la deidad de Jesucristo, pero para comprender su relación con la Trinidad, es necesario **identificarlo como una de las tres personas divinas**. La teología cristiana enseña que Dios es **uno y trino**, con tres personas subsistentes en una única esencia:  
+Tres personas subsistentes en una única esencia:  
 
 1. **El Padre**  
 2. **El Hijo** (Jesucristo)  
@@ -104,7 +103,7 @@ La Escritura presenta a Jesucristo como el **Hijo de Dios**, con **prueba de su 
 
 ---
 
-## **5. Conclusión Teológica**  
+## **5. Conclusión**  
 - **Jesucristo es consustancial con el Padre.**  
 - **La generación del Hijo es eterna e inmanente.**  
 - **El Padre, el Hijo y el Espíritu Santo son distintas personas, pero un solo Dios.**  

@@ -1,15 +1,18 @@
-# **CAPÍTULO XIV: MILAGROS DE JESÚS**  
+# **Milagros de Jesús**  
 
-## **INTRODUCCIÓN**  
 La cristología ha evolucionado con el tiempo, influenciada por la investigación teológica y corrientes filosóficas. La Biblia se presenta como la revelación de Dios, donde los milagros de Jesús no solo muestran su poder, sino también su amor y su identificación con la humanidad (Juan 3:2, Juan 8:36). A pesar del escepticismo moderno, los creyentes consideran la Escritura como la Palabra inerrante de Dios, aceptando que “por la fe entendemos haber sido constituido el universo por la palabra de Dios” (Hebreos 11:3).  
 
-## **DIFICULTADES RELATIVAS**  
+---
+
+## **1. Dificultades relativas**  
 El principal problema que enfrentan los críticos es la transmisión de los relatos de Jesús a través de testigos. Mientras sus enseñanzas se consideran auténticas, los milagros han sido cuestionados. La crítica liberal argumenta que estos fueron mitos creados por la Iglesia para fortalecer la imagen de Jesús. Sin embargo, los evangelios presentan los milagros como hechos históricos y parte esencial de su mensaje.  
 
-## **CIENCIA VERSUS MILAGRO**  
+### **Ciencas Vs Milagro**  
 Desde el siglo XVIII, pensadores ilustrados como Pierre Bayle, David Hume y Voltaire han rechazado los milagros, argumentando que violan las leyes naturales. Bultmann, por ejemplo, niega la compatibilidad entre los milagros y el pensamiento científico moderno. No obstante, la fe cristiana sostiene que Dios, como Creador, tiene el poder de intervenir en la naturaleza.  
 
-## **EVIDENCIAS**  
+---
+
+## **2. EVIDENCIAS**  
 
 ### **Historicidad**  
 Los milagros de Jesús están integrados en los evangelios y son testificados por apóstoles como Pedro:  
@@ -34,7 +37,9 @@ Jesús es único en la historia:
 - En la resurrección de la hija de Jairo, Jesús dijo: “Talita cumi, que traducido es: Niña, a ti te digo, levántate” (Marcos 5:41).  
 - Su autoridad también se manifestó en la curación del paralítico: “A ti te digo: Levántate, toma tu lecho, y vete a tu casa” (Marcos 2:10-11).  
 
-## **MANIFESTACIÓN DEL REINO DE DIOS**  
+---
+
+## **3. Manifestación del reino de Dios**  
 Los milagros de Jesús prueban que el Reino de Dios ha llegado:  
 - “Arrepentíos, porque el reino de los cielos se ha acercado” (Mateo 4:17).  
 - Isaías profetizó que el Mesías realizaría milagros:  
@@ -42,7 +47,7 @@ Los milagros de Jesús prueban que el Reino de Dios ha llegado:
 - Nicodemo reconoció que Jesús venía de Dios porque “nadie puede hacer estas señales que tú haces si no está Dios con él” (Juan 3:2).  
 - Jesús citó sus milagros como prueba ante los discípulos de Juan el Bautista: “Id, haced saber a Juan lo que habéis visto y oído” (Lucas 7:21-22).  
 
-## **CONCORDANCIA DEL RELATO**  
+### **Concordancia del relato**  
 Los milagros están conectados con la enseñanza de Jesús:  
 - “Porque como el Padre levanta a los muertos, así también el Hijo” (Juan 5:21).  
 - La resurrección de Lázaro motivó a las multitudes a seguir a Jesús:  
@@ -50,7 +55,7 @@ Los milagros están conectados con la enseñanza de Jesús:
   - “Conviene que un hombre muera por el pueblo” (Juan 11:50).  
   - “Porque había oído que él había hecho esta señal” (Juan 12:17-18).  
 
-## **VINCULACIÓN NECESARIA**  
+### **Vinculación necesaria**  
 Los milagros de Jesús explican eventos clave en su vida:  
 1. Los discípulos creyeron en Él gracias a los milagros (Juan 2:11, Mateo 14:33).  
 2. La gente aceptó su mensaje debido a sus prodigios (Juan 2:23, Juan 11:14-15).  
@@ -59,7 +64,7 @@ Los milagros de Jesús explican eventos clave en su vida:
 5. Sus milagros llevaron a los líderes judíos a buscar su muerte (Juan 11:47-48).  
 6. Los apóstoles predicaron su Evangelio destacando sus milagros (Hechos 2:22, 10:38-39).  
 
-## **RELATO DE LOS MILAGROS**  
+### **Relato de los milagros**  
 Se enumeran **37 milagros** de Jesús en los evangelios, incluyendo:  
 - Conversión del agua en vino (Juan 2:1-11).  
 - Sanación de enfermos y posesos (Mateo 8:2-4, Lucas 7:1-10).  
@@ -68,9 +73,9 @@ Se enumeran **37 milagros** de Jesús en los evangelios, incluyendo:
 - Calmar la tempestad (Marcos 4:35-41).  
 - Caminar sobre el agua (Mateo 14:24-33, Juan 6:16-21).  
 
-## **CUATRO MILAGROS DE JESÚS**  
+### **Cuatro milagros de Jesús**  
 
-### **Actuación sobre la naturaleza**  
+#### **Actuación sobre la naturaleza**  
 Jesús calmó la tempestad con su palabra:  
 
 1. Transformación del agua en vino en Caná (Jn. 2, 1-11): El primero de sus milagros, con el que da inicio a su vida pública, lo realiza en una boda. En concreto, transformando elementos de la naturaleza. Así, Jesús convierte agua en vino en las bodas de Caná.
@@ -85,7 +90,7 @@ Jesús calmó la tempestad con su palabra:
 10. Su presencia real en la Eucaristía (Mt. 26, 26-29; Mc. 14, 22-25; Lc. 22, 19-20): En este acto, Jesús convierte el pan y el vino en su cuerpo y sangre, es decir, en su presencia real por la acción del Espíritu Santo. Así establece la Eucaristía, «la fracción del pan» que celebraron desde el principio sus discípulos, como el sacramento central de la fe cristiana. Este milagro no solo marca un momento de profunda comunión entre Jesús y sus apóstoles, sino que se convierte en una presencia perpetua de Cristo en la vida del mundo a través de la Iglesia.
 11. Pesca milagrosa después de su resurrección (Jn. 21, 1-11): Igual que hizo al llamar por primera vez a los discípulos, Jesús realiza una abundante pesca milagrosa tras su resurrección.
 
-### **Actuación sobre la enfermedad**  
+#### **Actuación sobre la enfermedad**  
 12. Sanación de la mujer con flujo de sangre (Mt. 9, 20-21; Mc. 5, 25-34; Lc. 8, 43-48). Jesús cura a una mujer que había padecido de hemorragias durante doce años.
 13. Sanación de dos ciegos (Mt. 9, 27-31): Jesús devuelve la vista a dos hombres ciegos que salen a su paso.
 14. Curación de un ciego en Betsaida (Mc. 8, 22-26): Jesús restaura la vista de un hombre que había nacido ciego.
@@ -105,13 +110,13 @@ Jesús calmó la tempestad con su palabra:
 28. Sanación del ciego de nacimiento (Jn. 9, 1-41): De nuevo, Jesús devuelve la vista a un hombre ciego de nacimiento.
 29. Restauración de la oreja de Malco (Lc. 22, 50-51; Jn. 18, 10): En pleno prendimiento en el Huerto de los Olivos, al inicio de su Pasión, Jesús cura la oreja de un siervo del sumo sacerdote, llamado Malco, que había sido herido por Pedro en un intento por defenderle de la traición de Judas.
 
-### **Actuación sobre los demonios**  
+#### **Actuación sobre los demonios**  
 30. Sanación de la hija endemoniada de una mujer cananea (Mt. 15, 21-28; Mc. 7, 24-30): Jesús expulsa un demonio de la hija de una mujer cananea, es decir, no judía, ensalzando su fe. 
 31. Expulsión de un demonio en la sinagoga de Cafarnaún (Mc. 1, 21-28; Lc. 4, 33-35): En medio de la sinagoga de Cafarnaún, Jesús realiza un exorcismo a un hombre que comienza a increparle.
 32. Expulsión de una legión de demonios en Gadara (Mt. 8, 28-34; Mc. 5, 1-20; Lc. 8, 26-39): Jesús expulsa demonios de un hombre que vivía entre los sepulcros, y los envía a una piara de cerdos.
 33. Expulsión de un demonio que dejó mudo a un hombre (Mt. 9, 32-34; Lc. 11, 14): Algunas enfermedades que cura Jesús tienen un origen sobrenatural. En este caso, Jesús expulsa un demonio que había dejado mudo a un hombre.
 
-### **Actuación sobre la muerte**  
+#### **Actuación sobre la muerte**  
 34. Resurrección del hijo de la viuda de Naín (Lc. 7, 11-15): Jesús resucita al hijo único de una viuda, salvando así no solo al muerto, sino también a su madre, que se habría quedado desamparada socialmente.
 35. Resurrección de la hija de Jairo (Mt. 9, 18-26; Mc. 5, 21-43; Lc. 8, 41-56): Jesús resucita a la hija de un líder de la sinagoga, que ya había sido dada por muerta por todos los vecinos y tenía el cortejo fúnebre de la época, con flautistas y músicos que tocaban salmos de lamentaciones.
 36. Resurrección de Lázaro (Jn. 11, 1-44): La resurrección más espectacular, con su difunto amigo Lázaro ya dentro del sepulcro y en estado de descomposición, Jesús la llevó a cabo delante de numerosos testigos, incluidas sus hermanas Marta y María, y también judíos contrarios a Cristo que se conjuraron incluso para dar muerte a Lázaro.
@@ -119,7 +124,7 @@ Jesús calmó la tempestad con su palabra:
 
 ---
 
-### **Conclusión**  
+## **4. Conclusión**  
 Los milagros de Jesús confirman su identidad como el Hijo de Dios. Juan afirma que si se escribieran todos sus milagros, “ni aun en el mundo cabrían los libros que se habrían de escribir” (Juan 21:25).
 
 Referencia:

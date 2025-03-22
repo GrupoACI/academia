@@ -1,16 +1,15 @@
 # **Acciones y Relaciones Divinas**
 
-## **Introducción**
-El capítulo cierra la argumentación cristológica sobre la deidad de Jesucristo, demostrando que:  
+Argumentación cristológica sobre la deidad de Jesucristo:  
 1. Jesús manifestó atributos **incomunicables** de Dios (omnisciencia, omnipotencia, omnipresencia, inmutabilidad).  
 2. Jesús recibió y demandó acciones que solo corresponden a Dios, como la **adoración**, el **perdón de pecados** y la **fe**.  
 3. Se exploran las relaciones de Jesús dentro de la **Santísima Trinidad**, mostrando su unidad con el Padre y el Espíritu Santo.  
 
 ---
 
-## **Acciones Divinas**
+## **1. Acciones Divinas**
 
-### **1. Omnipotencia (Dios Todopoderoso)**
+### **Omnipotencia (Dios Todopoderoso)**
 Es la capacidad absoluta de Dios para ejecutar su voluntad sin limitaciones. La omnipotencia de Jesús se muestra en:  
 - **Creación y sustento del universo**:  
   - *“Porque él dijo, y fue hecho; él mandó, y existió”* (Salmo 33:9).  
@@ -65,32 +64,30 @@ Su naturaleza divina no sufre variaciones.
 
 ---
 
-## **Manifestaciones y Demandas Divinas**
+## **5. Manifestaciones y Demandas Divinas**
 
-### **1. Jesús salva lo perdido**
+### **Jesús salva lo perdido**
 Solo Dios puede salvar, y Jesús afirma ser el Salvador:  
 - *“De Yahvé viene la salvación”* (Salmo 3:8).  
 - *“No hay otro nombre bajo el cielo, dado a los hombres, en que podamos ser salvos”* (Hechos 4:12).  
 - *“Yo soy el camino, y la verdad, y la vida; nadie viene al Padre, sino por mí”* (Juan 14:6).  
 
----
-
-### **2. Jesús da gracia divina**
+### **Jesús da gracia divina**
 La salvación es por gracia, y Cristo la posee en plenitud:  
 - *“Aquel Verbo fue hecho carne, y habitó entre nosotros […] lleno de gracia y de verdad”* (Juan 1:14).  
 - *“Por gracia sois salvos, por medio de la fe”* (Efesios 2:8-9).  
 
-### **3. Perdonar pecados**
+### **Perdonar pecados**
 Jesús perdonó pecados, acción reservada a Dios:  
 - Al paralítico (*Mateo 9:2*): *“Tus pecados te son perdonados”*.  
 - A la mujer pecadora (*Lucas 7:48*): *“Tus pecados te son perdonados”*.  
 
-### **4. Exigir para Él la fe que Dios demanda**
+### **Exigir para Él la fe que Dios demanda**
 Jesús exigió la fe en Él con la misma autoridad que el Padre:  
 - *“Creéis en Dios, creed también en mí”* (*Juan 14:1*).  
 - *“El que cree en el Hijo tiene vida eterna”* (*Juan 3:36*).  
 
-### **5. Recibir adoración**
+### **Recibir adoración**
 Jesús aceptó adoración en múltiples ocasiones:  
 - Los magos le adoraron al nacer (*Mateo 2:2*).  
 - El ciego de nacimiento (*Juan 9:38*).  
@@ -98,43 +95,43 @@ Jesús aceptó adoración en múltiples ocasiones:
 
 ---
 
-## **Relación Trinitaria**
+## **6. Relación Trinitaria**
 La relación entre el Padre, el Hijo y el Espíritu Santo es eterna y manifiesta en las Escrituras.  
 
-### **1. Interrelación con el Padre**
+### **Interrelación con el Padre**
 Jesús es el Hijo eternamente engendrado por el Padre, compartiendo su esencia divina.  
 
-### **2. Enviado del Padre**
+### **Enviado del Padre**
 Jesús fue enviado para la salvación del mundo, pero vino voluntariamente:  
 - *“Porque de tal manera amó Dios al mundo, que ha dado a su Hijo unigénito”* (*Juan 3:16*).  
 
-### **3. Apropiación de cuerpo**
+### **Apropiación de cuerpo**
 Para llevar a cabo su misión, Jesús tomó forma humana sin perder su divinidad.  
 
-### **4. Relación en la expresión**
+### **Relación en la expresión**
 Jesús afirmó:  
 - *“No puede el Hijo hacer nada por sí mismo, sino lo que ve hacer al Padre”* (*Juan 5:19*).  
 
-### **5. Relación en la dependencia**
+### **Relación en la dependencia**
 Jesús se sometió voluntariamente a la voluntad del Padre, mostrando la unidad en su misión redentora (*Lucas 22:42*).  
 
-### **6. Interrelación con el Espíritu Santo**
+### **Interrelación con el Espíritu Santo**
 Jesús y el Espíritu Santo están en unidad en la obra de salvación.  
 
-### **7. Relación en la concepción**
+### **Relación en la concepción**
 Jesús fue concebido por obra del Espíritu Santo:  
 - *“Lo que en ella es engendrado, del Espíritu Santo es”* (*Mateo 1:20*).  
 
-### **8. Relación en la niñez y juventud**
+### **Relación en la niñez y juventud**
 Jesús creció en gracia y el Espíritu estuvo con Él desde el principio (*Lucas 2:40*).  
 
-### **9. Relación en el ministerio de Jesús**
+### **Relación en el ministerio de Jesús**
 Jesús fue ungido por el Espíritu Santo al comenzar su ministerio (*Lucas 4:18*).  
 
 
 ---
 
-### **Conclusión**
+### **7. Conclusión**
 Este capítulo establece que Jesús:  
 - Posee atributos **exclusivos de Dios** (omnipotencia, omnipresencia, omnisciencia e inmutabilidad).  
 - Realizó **acciones y milagros** que solo Dios puede hacer.  

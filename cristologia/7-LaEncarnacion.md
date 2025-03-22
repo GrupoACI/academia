@@ -1,16 +1,14 @@
 # **La Encarnación**
 
-## **Introducción**
 El Hijo de Dios, eternamente engendrado por el Padre, se encarna para cumplir la misión salvadora. En la persona del Verbo, Dios toma naturaleza humana sin dejar de ser Dios. La encarnación no implica el inicio de su existencia, ya que el Hijo es eterno (Juan 1:14). 
 
-**Versículos clave:**  
 - *"Aquel Verbo fue hecho carne, y habitó entre nosotros" (Jn. 1:14).*  
 - *"A Dios nadie le vio jamás; el unigénito Hijo, que está en el seno del Padre, él le ha dado a conocer" (Jn. 1:18).*  
 - *"Al único que tiene inmortalidad, que habita en luz inaccesible; a quien ninguno de los hombres ha visto ni puede ver" (1 Ti. 6:16).*  
 
 ---
 
-## **La Anunciación**  
+## **1. La Anunciación**  
 El ángel Gabriel es enviado por Dios a María en Nazaret para anunciarle su papel en la encarnación del Hijo de Dios.
 
 **Versículos clave:**  
@@ -27,7 +25,7 @@ Gabriel le dice: *"No temas, porque has hallado gracia delante de Dios"* (Lc. 1:
 
 ---
 
-## **La Profecía del Mesías**
+## **2. La Profecía del Mesías**
 El ángel confirma que María dará a luz al Salvador. Mateo relaciona este evento con la profecía de Isaías sobre el nacimiento virginal del Mesías.
 
 **Versículos clave:**  
@@ -38,7 +36,7 @@ Jesús será llamado *Hijo del Altísimo* y recibirá el trono de David, cumplie
 
 ---
 
-## **El Hijo del Altísimo**
+## **3. El Hijo del Altísimo**
 Jesús es identificado como el Hijo de Dios, heredero del trono de David y el Rey eterno.
 
 **Versículos clave:**  
@@ -48,7 +46,7 @@ Jesús es identificado como el Hijo de Dios, heredero del trono de David y el Re
 
 ---
 
-## **La Concepción Virginal**
+## **4. La Concepción Virginal**
 María pregunta cómo ocurrirá esto, y el ángel le responde que el Espíritu Santo lo hará posible.
 
 **Versículos clave:**  
@@ -62,7 +60,7 @@ El Hijo de Dios asume la naturaleza humana sin dejar de ser Dios (*"Aquel Verbo 
 
 ---
 
-## **El Milagro de la Encarnación**
+## **5. El Milagro de la Encarnación**
 Jesús es concebido sin intervención humana, lo que lo hace santo y sin pecado. José recibe confirmación del ángel en un sueño.
 
 **Versículos clave:**  
