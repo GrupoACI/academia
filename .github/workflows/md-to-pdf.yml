@@ -1,0 +1,18 @@
+name: Markdown to PDF
+on:
+  push:
+    branches: [ main ]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install Pandoc
+        run: sudo apt update && sudo apt install -y pandoc
+      - name: Convert to PDF
+        run: pandoc cristologia/1-Introduccion.md -o cristologia/1-Introduccion.pdf
+      - uses: actions/upload-artifact@v4
+        with:
+          name: pdf
+          path: cristologia/1-Introduccion.pdf
+
