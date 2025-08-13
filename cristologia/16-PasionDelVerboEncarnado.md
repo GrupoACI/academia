@@ -353,6 +353,11 @@ Las **enseñanzas finales de Jesús** resumen su ministerio y advierten sobre el
 
 ---
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
+
 ## **8. Lecciones sobre la Humildad y el Amor**  
 
 Durante la última semana de su ministerio, Jesús enseñó que el **amor y la humildad** son esenciales para sus seguidores. A través de palabras y acciones, mostró lo que significa **servir a los demás con un corazón sincero y desinteresado**.  
@@ -775,6 +780,10 @@ Después de la intensa **agonía en Getsemaní**, Jesús es arrestado, llevado a
    - Su actitud refleja **su amor incondicional y su obediencia al Padre** (Filipenses 2:8).  
    
 ---
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 ## **16. La Crucifixión**  
 
