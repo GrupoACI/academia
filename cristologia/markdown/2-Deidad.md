@@ -135,5 +135,5 @@
 - La revelación de Dios se cumple en Cristo, quien es la imagen del Dios invisible (Colosenses 1:15).
 - La afirmación de su divinidad es fundamental para la fe cristiana.
 
-Referencia: Biblia
-            Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos
+Referencia: - Biblia
+            - Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos

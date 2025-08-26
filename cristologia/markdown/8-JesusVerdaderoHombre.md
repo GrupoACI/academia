@@ -85,5 +85,5 @@ Si Jesús no hubiera sido verdaderamente hombre, su sacrificio no tendría valor
 
 Su humanidad no fue una simple apariencia; fue real y esencial para nuestra fe y salvación.
 
-Referencia: Biblia
-            Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos  
+Referencia: - Biblia
+            - Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos  

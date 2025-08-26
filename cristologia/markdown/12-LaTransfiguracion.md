@@ -135,5 +135,5 @@ Esto muestra que aún no comprendían el propósito del Mesías. Más tarde, Ped
 ## **5. Conclusión**
 La transfiguración fue un evento clave en el ministerio de Jesús, mostrando su divinidad, confirmando su misión y anticipando su segunda venida. Moisés y Elías testificaron que Jesús es el cumplimiento de la Ley y los Profetas. El testimonio del Padre dejó claro que solo Jesús debe ser escuchado. Este evento fortaleció la fe de los discípulos y sirvió como un anticipo del reino glorioso que vendrá.
 
-Referencia: Biblia
-            Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos
+Referencia: - Biblia
+            - Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos

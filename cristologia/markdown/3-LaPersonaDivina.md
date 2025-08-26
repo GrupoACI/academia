@@ -111,5 +111,5 @@ Cerramos con la reflexión de **Hilario de Poitiers**:
 
 > “El Hijo procede del Padre, es el unigénito que procede del ingenerado. Son Padre e Hijo, pero su naturaleza es una misma: Dios que procede de Dios.” (*Colosenses 2:9, Juan 14:9*).
 
-Referencia: Biblia
-            Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos  
+Referencia: - Biblia
+            - Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos  

@@ -179,5 +179,5 @@ Después del Reino Milenial y el juicio final, comenzará el estado eterno, dond
 
 El estado eterno es el cumplimiento final del plan de Dios, donde los creyentes disfrutarán de su presencia por toda la eternidad.
 
-Referencia: Biblia
-            Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos  
+Referencia: - Biblia
+            - Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos  

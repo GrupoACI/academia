@@ -98,5 +98,5 @@ Este capítulo muestra el inicio del ministerio de Jesús mediante:
 
 Estos eventos establecen la base para su enseñanza, milagros y el anuncio del Reino de Dios.
 
-Referencia: Biblia
-            Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos
+Referencia: - Biblia
+            - Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos

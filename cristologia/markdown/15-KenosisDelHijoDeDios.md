@@ -80,5 +80,5 @@ El verbo griego *kenóō* significa **vaciarse, anonadarse, despojarse**. Se tra
 
 > *"Venid a mí todos los que estáis trabajados y cargados, y yo os haré descansar."* (*Mateo 11:28*). 
 
-Referencia: Biblia
-            Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos 
+Referencia: - Biblia
+            - Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos 

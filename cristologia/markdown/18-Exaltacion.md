@@ -109,5 +109,5 @@ Cristo no solo es Rey, sino también Sumo Sacerdote del Nuevo Pacto, intercedien
 
 La exaltación de Cristo es irreversible y eterna. No solo fue glorificado como Dios, sino que su humanidad también fue elevada a la suprema dignidad. Desde su trono, ejerce su soberanía hasta que todas las cosas sean sometidas y Dios sea todo en todos.
 
-Referencia: Biblia
-            Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos
+Referencia: - Biblia
+            - Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos

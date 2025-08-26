@@ -87,5 +87,5 @@ La doctrina de la encarnación ha sido objeto de debate teológico a lo largo de
    - Santo Tomás de Aquino desarrolló la doctrina de la *unio hypostatica*.
    - La Reforma reafirmó la salvación por gracia mediante la fe en Cristo.
 
-Referencia: Biblia
-            Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos
+Referencia: - Biblia
+            - Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos

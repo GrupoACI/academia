@@ -83,5 +83,5 @@ Nombre dado por Dios con significado profético:
 - **Lucas 1:31; 2:21**.  
 - **Hechos 4:12** – "No hay otro nombre bajo el cielo... en que podamos ser salvos".
 
-Referencia: Biblia
-            Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos  
+Referencia: - Biblia
+            - Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos  

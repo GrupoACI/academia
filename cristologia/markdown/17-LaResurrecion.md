@@ -212,5 +212,5 @@ La resurrección de Cristo no es solo un evento histórico, sino el fundamento d
 ### **Conclusión**  
 La resurrección de Cristo es el eje central del cristianismo. No solo confirma su identidad y su obra redentora, sino que transforma la vida del creyente, garantiza la resurrección futura y asegura la victoria final de Dios sobre el mal. 
 
-Referencia: Biblia
-            Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos 
+Referencia: - Biblia
+            - Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos 
