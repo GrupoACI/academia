@@ -1,4 +1,4 @@
-# **Acciones y Relaciones Divinas**
+
 
 Argumentación cristológica sobre la deidad de Jesucristo:  
 1. Jesús manifestó atributos **incomunicables** de Dios (omnisciencia, omnipotencia, omnipresencia, inmutabilidad).  
