@@ -1,4 +1,3 @@
-# **Exaltación**
 
 La exaltación de Jesucristo es un tema teológico que plantea la pregunta central: **¿Quién fue exaltado?**  
 - **Teología luterana:** La exaltación corresponde a la naturaleza humana de Cristo, que en su estado de humillación renunció a ejercer plenamente sus atributos divinos.  

@@ -1,4 +1,3 @@
-# **Vaciamiento del Hijo de Dios**  
 
 Estudiar la **cristología** implica abordar la obra de Jesús, el **Hijo de Dios encarnado**, y su entrega personal (kénosis) en **obediencia suprema** hasta la **muerte de cruz**. Se distingue entre **limitación y humillación**:  
 - La **encarnación** introduce a Dios en la experiencia humana, **haciéndolo limitado**.  

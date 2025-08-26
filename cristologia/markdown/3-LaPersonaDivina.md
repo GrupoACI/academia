@@ -1,4 +1,3 @@
-# **La Persona Divina**  
 
 Tres personas subsistentes en una única esencia:  
 

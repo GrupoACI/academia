@@ -1,4 +1,3 @@
-# Títulos y Nombres Divinos
 
 La deidad de Cristo ha sido confirmada a través de la revelación bíblica. La controversia sobre su divinidad surgió principalmente debido a su encarnación. Sin embargo, la Escritura proporciona pruebas contundentes de su divinidad a través de los títulos y nombres que se le atribuyen.
 

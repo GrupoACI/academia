@@ -1,4 +1,3 @@
-# **La Resurrección**
 
 La vida de Jesús tiene dos fases: antes y después de la cruz. Su crucifixión es clave para la salvación, pero su resurrección es la prueba de su divinidad y la base de la fe cristiana (1 Corintios 15:14). Sin la resurrección, no hay vida eterna.
 

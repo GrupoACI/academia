@@ -1,4 +1,3 @@
-# **Oficios de Jesucristo** 
 
 Analiza el papel de Jesús como sacerdote, profeta y rey, destacando su ministerio actual en la gloria. Además, se examina la vinculación de estos oficios con la esperanza cristiana, la segunda venida de Cristo y el Reino de Dios.  
 
