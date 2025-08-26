@@ -78,4 +78,7 @@ El verbo griego *kenóō* significa **vaciarse, anonadarse, despojarse**. Se tra
   - La **humillación de Dios es la exaltación de los hombres** en Cristo.  
   - La **gracia de Dios** es el regalo supremo en la cruz.  
 
-> *"Venid a mí todos los que estáis trabajados y cargados, y yo os haré descansar."* (*Mateo 11:28*).  
+> *"Venid a mí todos los que estáis trabajados y cargados, y yo os haré descansar."* (*Mateo 11:28*). 
+
+Referencia: Biblia
+            Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos 

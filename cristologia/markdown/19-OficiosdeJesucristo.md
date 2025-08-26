@@ -177,4 +177,7 @@ Después del Reino Milenial y el juicio final, comenzará el estado eterno, dond
 3. **Los redimidos vivirán en la Nueva Jerusalén** (Ap. 21:9-27).  
 4. **El pecado y la muerte serán eliminados** (Ap. 20:14).  
 
-El estado eterno es el cumplimiento final del plan de Dios, donde los creyentes disfrutarán de su presencia por toda la eternidad.  
+El estado eterno es el cumplimiento final del plan de Dios, donde los creyentes disfrutarán de su presencia por toda la eternidad.
+
+Referencia: Biblia
+            Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos  

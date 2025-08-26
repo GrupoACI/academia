@@ -97,3 +97,6 @@ Este capítulo muestra el inicio del ministerio de Jesús mediante:
 3. **El testimonio del Padre y del Espíritu**, confirmando que Jesús es el Mesías esperado.  
 
 Estos eventos establecen la base para su enseñanza, milagros y el anuncio del Reino de Dios.
+
+Referencia: Biblia
+            Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos

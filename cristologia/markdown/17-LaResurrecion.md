@@ -210,4 +210,7 @@ La resurrección de Cristo no es solo un evento histórico, sino el fundamento d
 - La esperanza cristiana está en la resurrección de los muertos y la vida eterna (1 Tesalonicenses 4:13-18).  
 
 ### **Conclusión**  
-La resurrección de Cristo es el eje central del cristianismo. No solo confirma su identidad y su obra redentora, sino que transforma la vida del creyente, garantiza la resurrección futura y asegura la victoria final de Dios sobre el mal.  
+La resurrección de Cristo es el eje central del cristianismo. No solo confirma su identidad y su obra redentora, sino que transforma la vida del creyente, garantiza la resurrección futura y asegura la victoria final de Dios sobre el mal. 
+
+Referencia: Biblia
+            Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos 

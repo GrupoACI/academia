@@ -83,4 +83,7 @@ Si Jesús no hubiera sido verdaderamente hombre, su sacrificio no tendría valor
 - **Jesús es manso y humilde, y nos invita a aprender de Él** (Mateo 11:29).  
 - **Jesús lavó los pies de sus discípulos como ejemplo de servicio** (Juan 13:15).  
 
-Su humanidad no fue una simple apariencia; fue real y esencial para nuestra fe y salvación.  
+Su humanidad no fue una simple apariencia; fue real y esencial para nuestra fe y salvación.
+
+Referencia: Biblia
+            Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos  

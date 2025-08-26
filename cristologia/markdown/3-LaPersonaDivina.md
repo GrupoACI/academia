@@ -107,5 +107,9 @@ La Escritura presenta a Jesucristo como el **Hijo de Dios**, con **prueba de su 
 - **La generación del Hijo es eterna e inmanente.**  
 - **El Padre, el Hijo y el Espíritu Santo son distintas personas, pero un solo Dios.**  
 
-Cierro con la reflexión de **Hilario de Poitiers**:  
-> “El Hijo procede del Padre, es el unigénito que procede del ingenerado. Son Padre e Hijo, pero su naturaleza es una misma: Dios que procede de Dios.” (*Colosenses 2:9, Juan 14:9*).  
+Cerramos con la reflexión de **Hilario de Poitiers**:  
+
+> “El Hijo procede del Padre, es el unigénito que procede del ingenerado. Son Padre e Hijo, pero su naturaleza es una misma: Dios que procede de Dios.” (*Colosenses 2:9, Juan 14:9*).
+
+Referencia: Biblia
+            Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos  

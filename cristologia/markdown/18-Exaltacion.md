@@ -108,3 +108,6 @@ Esta descripción resalta su autoridad absoluta sobre la creación y la Iglesia.
 Cristo no solo es Rey, sino también Sumo Sacerdote del Nuevo Pacto, intercediendo por la humanidad. Su sacerdocio es superior, eterno y eficaz, cumpliendo las promesas mesiánicas y ejerciendo su gobierno supremo (He. 7:26, 10:12).  
 
 La exaltación de Cristo es irreversible y eterna. No solo fue glorificado como Dios, sino que su humanidad también fue elevada a la suprema dignidad. Desde su trono, ejerce su soberanía hasta que todas las cosas sean sometidas y Dios sea todo en todos.
+
+Referencia: Biblia
+            Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos

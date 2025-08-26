@@ -126,5 +126,6 @@ Jesús calmó la tempestad con su palabra:
 ## **4. Conclusión**  
 Los milagros de Jesús confirman su identidad como el Hijo de Dios. Juan afirma que si se escribieran todos sus milagros, “ni aun en el mundo cabrían los libros que se habrían de escribir” (Juan 21:25).
 
-Referencia:
-https://www.eldebate.com/religion/iglesia/20240903/cuantos-milagros-hizo-jesus-segun-nuevo-testamento_222707.html
+Referencia: Biblia
+            Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos
+            https://www.eldebate.com/religion/iglesia/20240903/cuantos-milagros-hizo-jesus-segun-nuevo-testamento_222707.html

@@ -206,4 +206,7 @@ El llamado **Sermón Profético** o **Discurso del Monte de los Olivos** (Mateo 
 
 En este sermón, Jesús combina profecías a corto plazo (la destrucción de Jerusalén) con eventos futuros aún por cumplirse (su segunda venida y el juicio final).  
 
-El mensaje profético de Jesús enfatiza la soberanía de Dios sobre la historia, la certeza de su regreso y la necesidad de estar preparados espiritualmente. Sus profecías sobre su muerte se cumplieron exactamente, lo que da confianza en la veracidad de sus anuncios sobre el futuro.  
+El mensaje profético de Jesús enfatiza la soberanía de Dios sobre la historia, la certeza de su regreso y la necesidad de estar preparados espiritualmente. Sus profecías sobre su muerte se cumplieron exactamente, lo que da confianza en la veracidad de sus anuncios sobre el futuro. 
+
+Referencia: Biblia
+            Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos 

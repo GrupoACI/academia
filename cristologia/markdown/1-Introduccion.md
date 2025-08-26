@@ -100,3 +100,5 @@ La **soteriología** (doctrina de la salvación) no se entiende sin la cristolog
 
 *"Cristo es en vosotros, esperanza de gloria"* (Colosenses 1:27).  
 
+Referencia: Biblia
+            Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos

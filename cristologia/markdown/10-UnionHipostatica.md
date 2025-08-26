@@ -120,4 +120,5 @@ Se refiere a la atribución de cualidades divinas y humanas a Jesús sin confusi
 - **Marcos 14:36; Lucas 23:46**: Jesús ora al Padre entregándole su espíritu.  
 - **Juan 6:38**: Jesús vino para hacer la voluntad del Padre.  
 
-
+Referencia: Biblia
+            Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos

@@ -85,3 +85,5 @@ Jesús es el **Dios-hombre**, en quien la divinidad y la humanidad coexisten en 
 Versículo final:
 - **Juan 1:18** – "A Dios nadie le vio jamás; el unigénito Hijo, que está en el seno del Padre, él le ha dado a conocer."
 
+Referencia: Biblia
+            Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos

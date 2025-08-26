@@ -142,3 +142,5 @@ Este capítulo establece que Jesús:
 
 Así, queda demostrado que **Jesucristo es Dios en unidad con el Padre y el Espíritu Santo**.  
 
+Referencia: Biblia
+            Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos

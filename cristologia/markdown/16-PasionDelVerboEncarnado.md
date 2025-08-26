@@ -974,3 +974,5 @@ Este evento está registrado en:
 3. **Anticipa su Resurrección**  
    - La tumba no es el final, sino **la antesala de la victoria sobre la muerte**.  
 
+Referencia: Biblia
+            Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos

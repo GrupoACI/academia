@@ -86,3 +86,6 @@ La doctrina de la encarnación ha sido objeto de debate teológico a lo largo de
 3. **Edad Media y Reformación**:
    - Santo Tomás de Aquino desarrolló la doctrina de la *unio hypostatica*.
    - La Reforma reafirmó la salvación por gracia mediante la fe en Cristo.
+
+Referencia: Biblia
+            Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos
