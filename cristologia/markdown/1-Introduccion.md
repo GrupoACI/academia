@@ -1,21 +1,23 @@
 
 
-La **cristología** es el estudio de la persona y obra de Jesucristo, Hijo de Dios, fundamento de la fe cristiana. Este estudio se desarrolla en cuatro áreas principales:
+La **cristología** es el estudio de la persona y obra de Jesucristo, Hijo de Dios, fundamento de la fe cristiana. Se desarrolla en cuatro áreas principales:
 
 1. **Cristología histórica**  
    - Examina los hechos de la vida de Jesús en su contexto geográfico, cultural, religioso y social.  
+   
+2. **Cristología antropológica**  
    - Resalta que Jesús no es solo un hombre, sino **Dios manifestado en carne** (1 Timoteo 3:16).  
    - Jesús es **Dios con nosotros** (Mateo 1:23), trascendiendo el tiempo y la historia.
    - Su presencia ilumina la realidad del pecado en la humanidad:  
      *"La luz en las tinieblas resplandece, y las tinieblas no prevalecieron contra ella"* (Juan 1:5).  
      *"La luz vino al mundo, y los hombres amaron más las tinieblas que la luz, porque sus obras eran malas"* (Juan 3:19).  
 
-2. **Cristología fundamental**  
+3. **Cristología fundamental**  
    - Analiza los signos y milagros que confirman a Jesús como la revelación de Dios.  
    - Jesús es la **expresión plena de Dios**:  
      *"A Dios nadie le vio jamás; el unigénito Hijo, que está en el seno del Padre, él le ha dado a conocer"* (Juan 1:18).  
 
-3. **Cristología ontológica**  
+4. **Cristología ontológica**  
    - Explora cómo Jesús ilumina la existencia humana, mostrando el sentido del ser y la historia.  
    - En Él todo fue creado y en Él subsiste:  
      *"Porque en él fueron creadas todas las cosas, las que hay en los cielos y las que hay en la tierra, visibles e invisibles; sean tronos, sean dominios, sean principados, sean potestades; todo fue creado por medio de él y para él"* (Colosenses 1:16).  

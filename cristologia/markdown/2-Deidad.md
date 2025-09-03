@@ -62,25 +62,29 @@
 
 ## 3. Manifestaciones de la Deidad en el Antiguo Testamento **El Ángel de Jehová**
 
+Empezamos con la idea de que nadie podía ver a Dios, porque moría:
+  - "No podrás ver mi rostro; porque no me verá hombre, y vivirá" Éxodo 33:20
+  - "A Dios nadie le vio jamás; el unigénito Hijo, que está en el seno del Padre, él le ha dado a conocer." Juan 1:18
+  - "Y dijo: Yo soy el Dios de tu padre, Dios de Abraham, Dios de Isaac, y Dios de Jacob. Entonces Moisés cubrió su rostro, porque tuvo miedo de mirar a Dios." Éxodo 3:6
 
 ### **Génesis 16:7**  
   -"Y la halló el Ángel de Jehová junto a una fuente de agua en el desierto, junto a la fuente que está en el camino de Shur."*  
   - El Ángel de Jehová se le aparece a Agar, prometiéndole que su descendencia será innumerable. El ángel habla en nombre propio, no como un mensajero, sino como Dios mismo, lo que revela la deidad de este ángel.
 
 ### **Génesis 18:1**  
-  -"Después le apareció Jehová en el encinar de Mamre."*  
+  -"Después le apareció Jehová en el encinar de Mamre."
   - En este pasaje, Jehová se aparece a Abraham en forma humana. Aunque dos de los tres visitantes son ángeles, uno de ellos se identifica claramente como Jehová, lo que demuestra la manifestación divina en forma humana.
 
 ### **Génesis 22:1 ss.**  
-  - "Y el Ángel de Jehová le dio voces desde el cielo..."*  
+  - "Y el Ángel de Jehová le dio voces desde el cielo..."
   - Dios le pidió a Abraham que sacrificara a su hijo Isaac, pero al final, el Ángel de Jehová intervino y detuvo el sacrificio, confirmando que era Dios quien hablaba y actuaba a través del ángel.
 
 ### **Génesis 32:24-32**  
   - "No se dirá más tu nombre Jacob, sino Israel; porque has luchado con Dios y con los hombres, y has vencido."*  
   - Jacob lucha toda la noche con un "varón", quien es identificado como un ángel, y en el relato se le reconoce como Dios, por lo que el ángel es considerado como una manifestación de la divinidad.
 
-### **Éxodo 3:1 ss.**  
-  - "Y se le apareció el Ángel de Jehová en una llama de fuego en medio de una zarza."*  
+### **Éxodo 3:2**  
+  - "Y se le apareció el Ángel de Jehová en una llama de fuego en medio de una zarza; y él miró, y vio que la zarza ardía en fuego, y la zarza no se consumía"
   - Moisés ve al Ángel de Jehová en una zarza ardiente. El ángel se identifica como Jehová, quien le habla a Moisés y le revela su identidad como el Dios de Abraham, Isaac y Jacob, confirmando la deidad del ángel.
 
 ### **Jueces 6:22-23**  
@@ -88,43 +92,43 @@
   - Gedeón se da cuenta de que el ser con el que ha hablado es el Ángel de Jehová, y teme por su vida al haber visto a Dios cara a cara. La respuesta de Jehová confirma que no morirá, reafirmando la identidad divina del ángel.
 
 ### **Jueces 13:1-22**  
-  - "¿Por qué me preguntas por mi nombre, que es admirable?"*  
+  - "¿Por qué me preguntas por mi nombre, que es admirable?"
   - El Ángel de Jehová se le aparece a los padres de Sansón. Cuando Manoa pregunta por su nombre, el ángel responde que su nombre es "admirable", un título que se refiere a Dios, mostrando la naturaleza divina del ángel.
 
 ### **Salmo 2**  
-  - "El Hijo me has dado, pídeme, y te daré por herencia las naciones."*  
+  - "El Hijo me has dado, pídeme, y te daré por herencia las naciones." 
   - Este salmo habla del Mesías, quien es llamado el Hijo de Dios. Se le da un dominio universal, y se le insta a que todos lo sirvan, lo que subraya su divinidad.
 
 ### **Salmo 22**  
-  - "Dios mío, Dios mío, ¿por qué me has desamparado?"*  
+  - "Dios mío, Dios mío, ¿por qué me has desamparado?"
   - Este salmo es una profecía de la crucifixión de Jesús. Las palabras y sufrimientos del salmo solo pueden aplicarse a una persona divina, mostrando la conexión entre el sufrimiento de Cristo y su divinidad.
 
 ### **Salmo 45**  
-  - "Tu trono, oh Dios, es eterno y para siempre."*  
+  - "Tu trono, oh Dios, es eterno y para siempre."
   - Este salmo describe a un rey cuya naturaleza es divina, pues su trono es eterno. El texto se aplica a Cristo en el Nuevo Testamento, mostrando que el rey mencionado es Dios.
 
 ### **Salmo 72**  
-  - "Porque él librará al pobre que clama, y al afligido que no tiene quien le ayude."*  
+  - "Porque él librará al pobre que clama, y al afligido que no tiene quien le ayude."
   - El salmo describe a un rey cuya autoridad es divina, y su reino es eterno y universal. Este rey es el Mesías, cuya obra trae justicia y paz para todos.
 
 ### **Salmo 110**  
-  - "Jehová dijo a mi Señor: Siéntate a mi diestra, hasta que ponga a tus enemigos por estrado de tus pies."*  
+  - "Jehová dijo a mi Señor: Siéntate a mi diestra, hasta que ponga a tus enemigos por estrado de tus pies." 
   - Este salmo es citado por Cristo en el Nuevo Testamento. El "Señor de David" se refiere al Mesías, quien tiene una naturaleza divina, siendo tanto hijo de David como su Señor.
 
 ### **Isaías 4:2**  
-  - "En aquel día será el renuevo de Jehová para orgullo y para gloria."*  
+  - "En aquel día será el renuevo de Jehová para orgullo y para gloria."
   - Se profetiza sobre el "renuevo", un ministerio divino, que se refiere a Cristo. Este título resalta la divinidad del Mesías que se manifestará.
 
 ### **Isaías 7-9**  
-  - "He aquí, una virgen concebirá y dará a luz un hijo, y llamará su nombre Emanuel."*  
+  - "He aquí, una virgen concebirá y dará a luz un hijo, y llamará su nombre Emanuel."
   - La profecía anuncia el nacimiento de un niño llamado Emanuel, que significa "Dios con nosotros". Esta es una clara referencia a la divinidad del Mesías, quien es también el eterno Hijo de Dios.
 
 ### **Miqueas 5:1-5**  
-  - "Pero tú, Belén Efrata, pequeña para estar entre las familias de Judá, de ti me saldrá el que será Señor en Israel."*  
+  - "Pero tú, Belén Efrata, pequeña para estar entre las familias de Judá, de ti me saldrá el que será Señor en Israel."
   - Miqueas profetiza el nacimiento del Mesías en Belén, quien será eterno y divino, gobernando con perfección y trayendo paz a su pueblo.
 
 ### **Daniel 2:44**  
-  - "En los días de esos reyes, el Dios del cielo levantará un reino que no será jamás destruido."*  
+  - "En los días de esos reyes, el Dios del cielo levantará un reino que no será jamás destruido."
   - Daniel profetiza que el reino del Mesías será eterno, y que destruirá todos los demás reinos. Este reino solo puede ser el reino de Dios, que es eterno y divino.
 
 ---
