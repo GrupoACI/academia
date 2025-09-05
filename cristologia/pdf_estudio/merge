@@ -1,0 +1,1 @@
+pdftk $(ls -v *.pdf) cat output merged.pdf
