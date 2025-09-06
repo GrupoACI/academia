@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" width="120"/>
+</p>
+
 
 
 La **cristología** es el estudio de la persona y obra de Jesucristo, Hijo de Dios, fundamento de la fe cristiana. Se desarrolla en cuatro áreas principales:

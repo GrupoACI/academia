@@ -1,3 +1,8 @@
+\centering
+![](logo.png){ width=120px }
+
+\raggedright
+
 # Sesión 7: La encarnación
 
 El Hijo de Dios, eternamente engendrado por el Padre, se encarna para cumplir la misión salvadora. En la persona del Verbo, Dios toma naturaleza humana sin dejar de ser Dios. La encarnación no implica el inicio de su existencia, ya que el Hijo es eterno (Juan 1:14). 

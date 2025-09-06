@@ -1,3 +1,8 @@
+\centering
+![](logo.png){ width=120px }
+
+\raggedright
+
 # Sesión 6: Acciones y relaciones divinas
 
 Argumentación cristológica sobre la deidad de Jesucristo:  

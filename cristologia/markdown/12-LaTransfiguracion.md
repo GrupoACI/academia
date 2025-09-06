@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" width="120"/>
+</p>
+
 
 Jesús había anunciado el evangelio del reino en todo el territorio donde realizó su ministerio. Sus discípulos y quienes lo escuchaban entendieron que el reino prometido por los profetas estaba cerca de instaurarse, pues el Rey mismo estaba en Israel. Las señales y prodigios que realizaba confirmaban que Él era el Mesías esperado desde siglos antes (*Isaías 35:5-6*, *Mateo 11:2-5*).
 

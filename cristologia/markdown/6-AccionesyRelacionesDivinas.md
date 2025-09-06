@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" width="120"/>
+</p>
+
 
 
 Argumentación cristológica sobre la deidad de Jesucristo:  

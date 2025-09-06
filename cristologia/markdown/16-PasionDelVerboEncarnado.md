@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" width="120"/>
+</p>
+
 
 El plan de redención fue establecido antes de la creación del mundo y responde a tres preguntas fundamentales:
 1. **Quién la ejecutaría**: Sería Cristo, según 1 Pedro 1:18-20, que declara que fuimos rescatados con la sangre preciosa de Cristo, destinado desde antes de la fundación del mundo.

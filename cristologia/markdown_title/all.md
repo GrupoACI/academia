@@ -1,3 +1,9 @@
+
+\centering
+![](logo.png){ width=120px }
+
+\raggedright
+
 # Sesión 1: Cristología
 
 La **cristología** es el estudio de la persona y obra de Jesucristo, Hijo de Dios, fundamento de la fe cristiana. Se desarrolla en cuatro áreas principales:
@@ -102,11 +108,14 @@ La **soteriología** (doctrina de la salvación) no se entiende sin la cristolog
 
 *"Cristo es en vosotros, esperanza de gloria"* (Colosenses 1:27).  
 
----
-
 ### Referencia: 
 - Biblia
 - Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos
+
+\centering
+![](logo.png){ width=120px }
+
+\raggedright
 
 # Sesión 2: Deidad
 
@@ -254,6 +263,11 @@ Empezamos con la idea de que nadie podía ver a Dios, porque moría:
 - Biblia
 - Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos
 
+\centering
+![](logo.png){ width=120px }
+
+\raggedright
+
 # Sesión 3: La persona divina
 
 Tres personas subsistentes en una única esencia:  
@@ -370,7 +384,12 @@ Cerramos con la reflexión de **Hilario de Poitiers**:
 
 ### Referencia: 
 - Biblia
-- Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos 
+- Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos
+
+\centering
+![](logo.png){ width=120px }
+
+\raggedright
 
 # Sesión 4: Preexistencia
 
@@ -450,6 +469,11 @@ La preexistencia de Cristo es clave para comprender su papel como Dios, Creador 
 ### Referencia: 
 - Biblia
 - Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos
+
+\centering
+![](logo.png){ width=120px }
+
+\raggedright
 
 # Sesión 5: Título y nombres divinos
 
@@ -540,6 +564,11 @@ Nombre dado por Dios con significado profético:
 ### Referencia: 
 - Biblia
 - Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos 
+
+\centering
+![](logo.png){ width=120px }
+
+\raggedright
 
 # Sesión 6: Acciones y relaciones divinas
 
@@ -689,6 +718,11 @@ Así, queda demostrado que **Jesucristo es Dios en unidad con el Padre y el Esp�
 - Biblia
 - Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos
 
+\centering
+![](logo.png){ width=120px }
+
+\raggedright
+
 # Sesión 7: La encarnación
 
 El Hijo de Dios, eternamente engendrado por el Padre, se encarna para cumplir la misión salvadora. En la persona del Verbo, Dios toma naturaleza humana sin dejar de ser Dios. La encarnación no implica el inicio de su existencia, ya que el Hijo es eterno (Juan 1:14). 
@@ -783,6 +817,11 @@ La doctrina de la encarnación ha sido objeto de debate teológico a lo largo de
 - Biblia
 - Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos
 
+\centering
+![](logo.png){ width=120px }
+
+\raggedright
+
 # Sesión 8: Jesús verdadero hombre
 
 Jesús, aunque eternamente Dios (Juan 1:14), se encarnó, tomando forma de hombre, y experimentó el curso normal de la vida humana: gestación, nacimiento, infancia y madurez. Su historia está registrada en los Evangelios, desde su nacimiento hasta su ascensión.  
@@ -875,6 +914,11 @@ Su humanidad no fue una simple apariencia; fue real y esencial para nuestra fe y
 - Biblia
 - Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos
 
+\centering
+![](logo.png){ width=120px }
+
+\raggedright
+
 # Sesión 9: Jesús Dios hombre
 
 La enseñanza bíblica sobre Jesús revela su doble naturaleza: **divina y humana**, unidas sin mezcla ni confusión en la persona del Hijo de Dios. Esta unión es hipostática, es decir, personal, y fue reconocida en los concilios de Éfeso (431 d.C.) y Calcedonia (451 d.C.). La divinidad de Cristo es eterna, mientras que su humanidad surge de su concepción en María, por obra del Espíritu Santo. Como resultado, Cristo es **un solo sujeto personal**, consustancial con Dios en su divinidad y consustancial con los hombres en su humanidad.
@@ -966,6 +1010,11 @@ Versículo final:
 ### Referencia: 
 - Biblia
 - Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos
+
+\centering
+![](logo.png){ width=120px }
+
+\raggedright
 
 # Sesión 10: Naturaleza divina y humana
 
@@ -1094,6 +1143,11 @@ Se refiere a la atribución de cualidades divinas y humanas a Jesús sin confusi
 - Biblia
 - Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos
 
+\centering
+![](logo.png){ width=120px }
+
+\raggedright
+
 # Sesión 11: Comienzo del ministerio terrenal de Jesús
 
 El inicio del ministerio de Jesús se centra en **su bautismo** y **las tentaciones en el desierto**. Se analiza cómo estos eventos marcan el cumplimiento de la misión redentora del Verbo encarnado y su preparación para proclamar el Reino de Dios.  
@@ -1198,6 +1252,11 @@ Estos eventos establecen la base para su enseñanza, milagros y el anuncio del R
 ### Referencia: 
 - Biblia
 - Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos
+
+\centering
+![](logo.png){ width=120px }
+
+\raggedright
 
 # Sesión 12: La transfiguración
 
@@ -1340,6 +1399,11 @@ La transfiguración fue un evento clave en el ministerio de Jesús, mostrando su
 ### Referencia: 
 - Biblia
 - Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos
+
+\centering
+![](logo.png){ width=120px }
+
+\raggedright
 
 # Sesión 13: Predicador y maestro
 
@@ -1556,6 +1620,11 @@ El mensaje profético de Jesús enfatiza la soberanía de Dios sobre la historia
 - Biblia
 - Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos
 
+\centering
+![](logo.png){ width=120px }
+
+\raggedright
+
 # Sesión 14: Milagros de Jesús
 
 La cristología ha evolucionado con el tiempo, influenciada por la investigación teológica y corrientes filosóficas. La Biblia se presenta como la revelación de Dios, donde los milagros de Jesús no solo muestran su poder, sino también su amor y su identificación con la humanidad (Juan 3:2, Juan 8:36). A pesar del escepticismo moderno, los creyentes consideran la Escritura como la Palabra inerrante de Dios, aceptando que “por la fe entendemos haber sido constituido el universo por la palabra de Dios” (Hebreos 11:3).  
@@ -1690,6 +1759,11 @@ Los milagros de Jesús confirman su identidad como el Hijo de Dios. Juan afirma 
 - Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos
 - https://www.eldebate.com/religion/iglesia/20240903/cuantos-milagros-hizo-jesus-segun-nuevo-testamento_222707.html
 
+\centering
+![](logo.png){ width=120px }
+
+\raggedright
+
 # Sesión 15: Vaciamiento del Hijo de Dios
 
 Estudiar la **cristología** implica abordar la obra de Jesús, el **Hijo de Dios encarnado**, y su entrega personal (kénosis) en **obediencia suprema** hasta la **muerte de cruz**. Se distingue entre **limitación y humillación**:  
@@ -1776,6 +1850,11 @@ El verbo griego *kenóō* significa **vaciarse, anonadarse, despojarse**. Se tra
 ### Referencia: 
 - Biblia
 - Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos
+
+\centering
+![](logo.png){ width=120px }
+
+\raggedright
 
 # Sesión 16: Pasión del Verbo encarnado
 
@@ -2758,6 +2837,11 @@ Este evento está registrado en:
 - Biblia
 - Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos
 
+\centering
+![](logo.png){ width=120px }
+
+\raggedright
+
 # Sesión 17: La resurreción
 
 La vida de Jesús tiene dos fases: antes y después de la cruz. Su crucifixión es clave para la salvación, pero su resurrección es la prueba de su divinidad y la base de la fe cristiana (1 Corintios 15:14). Sin la resurrección, no hay vida eterna.
@@ -2977,6 +3061,11 @@ La resurrección de Cristo es el eje central del cristianismo. No solo confirma 
 - Biblia
 - Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos
 
+\centering
+![](logo.png){ width=120px }
+
+\raggedright
+
 # Sesión 18: Exaltación
 
 La exaltación de Jesucristo es un tema teológico que plantea la pregunta central: **¿Quién fue exaltado?**  
@@ -3092,6 +3181,11 @@ La exaltación de Cristo es irreversible y eterna. No solo fue glorificado como 
 ### Referencia: 
 - Biblia
 - Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos
+
+\centering
+![](logo.png){ width=120px }
+
+\raggedright
 
 # Sesión 19: Oficios de Jesús  y nuevo reino
 

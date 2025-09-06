@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="logo.png" width="120"/>
-</p>
+
+\centering
+![](logo.png){ width=120px }
+
+\raggedright
 
 # Sesión 1: Cristología
 

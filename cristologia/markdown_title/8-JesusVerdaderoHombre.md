@@ -1,3 +1,8 @@
+\centering
+![](logo.png){ width=120px }
+
+\raggedright
+
 # Sesión 8: Jesús verdadero hombre
 
 Jesús, aunque eternamente Dios (Juan 1:14), se encarnó, tomando forma de hombre, y experimentó el curso normal de la vida humana: gestación, nacimiento, infancia y madurez. Su historia está registrada en los Evangelios, desde su nacimiento hasta su ascensión.  

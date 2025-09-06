@@ -1,3 +1,8 @@
+\centering
+![](logo.png){ width=120px }
+
+\raggedright
+
 # Sesión 14: Milagros de Jesús
 
 La cristología ha evolucionado con el tiempo, influenciada por la investigación teológica y corrientes filosóficas. La Biblia se presenta como la revelación de Dios, donde los milagros de Jesús no solo muestran su poder, sino también su amor y su identificación con la humanidad (Juan 3:2, Juan 8:36). A pesar del escepticismo moderno, los creyentes consideran la Escritura como la Palabra inerrante de Dios, aceptando que “por la fe entendemos haber sido constituido el universo por la palabra de Dios” (Hebreos 11:3).  

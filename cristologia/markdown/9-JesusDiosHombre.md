@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" width="120"/>
+</p>
+
 
 La enseñanza bíblica sobre Jesús revela su doble naturaleza: **divina y humana**, unidas sin mezcla ni confusión en la persona del Hijo de Dios. Esta unión es hipostática, es decir, personal, y fue reconocida en los concilios de Éfeso (431 d.C.) y Calcedonia (451 d.C.). La divinidad de Cristo es eterna, mientras que su humanidad surge de su concepción en María, por obra del Espíritu Santo. Como resultado, Cristo es **un solo sujeto personal**, consustancial con Dios en su divinidad y consustancial con los hombres en su humanidad.
 

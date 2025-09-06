@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" width="120"/>
+</p>
+
 
 Jesús, aunque eternamente Dios (Juan 1:14), se encarnó, tomando forma de hombre, y experimentó el curso normal de la vida humana: gestación, nacimiento, infancia y madurez. Su historia está registrada en los Evangelios, desde su nacimiento hasta su ascensión.  
 

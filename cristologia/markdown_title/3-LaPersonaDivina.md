@@ -1,3 +1,8 @@
+\centering
+![](logo.png){ width=120px }
+
+\raggedright
+
 # Sesión 3: La persona divina
 
 Tres personas subsistentes en una única esencia:  

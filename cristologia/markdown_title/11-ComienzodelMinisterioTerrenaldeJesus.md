@@ -1,3 +1,8 @@
+\centering
+![](logo.png){ width=120px }
+
+\raggedright
+
 # Sesión 11: Comienzo del ministerio terrenal de Jesús
 
 El inicio del ministerio de Jesús se centra en **su bautismo** y **las tentaciones en el desierto**. Se analiza cómo estos eventos marcan el cumplimiento de la misión redentora del Verbo encarnado y su preparación para proclamar el Reino de Dios.  

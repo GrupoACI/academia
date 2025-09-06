@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" width="120"/>
+</p>
+
 
 La misión de Jesucristo es la culminación del plan eterno de redención (Gálatas 4:4). Aquellos que convivieron con Él lo vieron lleno de gracia y verdad (Juan 1:14). Dios se reveló en Cristo de forma suprema, ya que, si bien la revelación escrita es completa, no alcanza la infinitud divina. Jesucristo no solo proclamó el mensaje de Dios, sino que Él mismo es el mensaje absoluto (Hebreos 1:1-2).
 

@@ -1,3 +1,8 @@
+\centering
+![](logo.png){ width=120px }
+
+\raggedright
+
 # Sesión 10: Naturaleza divina y humana
 
 Unión hipostática: se refiere a la coexistencia de las naturalezas divina y humana en la persona de Jesucristo. La Biblia enseña que Jesús es completamente Dios y completamente hombre, sin que una naturaleza anule o disminuya a la otra. 

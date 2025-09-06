@@ -1,3 +1,8 @@
+\centering
+![](logo.png){ width=120px }
+
+\raggedright
+
 # Sesión 2: Deidad
 
 - Para comprender a Jesús, es fundamental partir de su condición divina como Hijo de Dios, segunda persona de la Trinidad.

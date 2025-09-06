@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" width="120"/>
+</p>
+
 
 - Para comprender a Jesús, es fundamental partir de su condición divina como Hijo de Dios, segunda persona de la Trinidad.
 - Su vida en la tierra solo se entiende en relación con su naturaleza divino-humana.

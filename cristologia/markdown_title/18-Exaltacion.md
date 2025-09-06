@@ -1,3 +1,8 @@
+\centering
+![](logo.png){ width=120px }
+
+\raggedright
+
 # Sesión 18: Exaltación
 
 La exaltación de Jesucristo es un tema teológico que plantea la pregunta central: **¿Quién fue exaltado?**  

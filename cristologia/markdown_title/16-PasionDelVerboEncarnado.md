@@ -1,3 +1,8 @@
+\centering
+![](logo.png){ width=120px }
+
+\raggedright
+
 # Sesión 16: Pasión del Verbo encarnado
 
 El plan de redención fue establecido antes de la creación del mundo y responde a tres preguntas fundamentales:

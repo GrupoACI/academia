@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" width="120"/>
+</p>
+
 
 Se refiere a la coexistencia de las naturalezas divina y humana en la persona de Jesucristo. La Biblia enseña que Jesús es completamente Dios y completamente hombre, sin que una naturaleza anule o disminuya a la otra. 
 
