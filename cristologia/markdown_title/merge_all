@@ -1,0 +1,4 @@
+for f in $(ls *.md | sort -V); do
+    cat "$f" >> all.md
+    echo "" >> all.md   # add a blank line
+done

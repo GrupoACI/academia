@@ -1,0 +1,5 @@
+pandoc all.md \
+  -o all.pdf \
+  --pdf-engine=xelatex \
+  -V mainfont="DejaVu Serif" \
+  -V geometry:margin=1.5cm
