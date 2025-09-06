@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" width="120"/>
+  <img src="https://storage2.snappages.site/V8C9R3/assets/images/19524442_1136x1136_500.png" width="120"/>
 </p>
 
 
