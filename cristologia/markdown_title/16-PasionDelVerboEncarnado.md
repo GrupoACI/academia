@@ -356,13 +356,6 @@ Jesús sale del templo y sus discípulos le preguntan sobre el **fin de los tiem
  
 Las **enseñanzas finales de Jesús** resumen su ministerio y advierten sobre el juicio venidero. Él invita a sus seguidores a vivir con **fe, amor y fidelidad**, esperando su regreso con **preparación y obediencia**.
 
----
-
-<div style="page-break-after: always; visibility: hidden"> 
-\pagebreak 
-</div>
-
-
 ## **8. Lecciones sobre la Humildad y el Amor**  
 
 Durante la última semana de su ministerio, Jesús enseñó que el **amor y la humildad** son esenciales para sus seguidores. A través de palabras y acciones, mostró lo que significa **servir a los demás con un corazón sincero y desinteresado**.  

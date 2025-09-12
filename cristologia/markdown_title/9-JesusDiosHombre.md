@@ -10,8 +10,6 @@ La enseñanza bíblica sobre Jesús revela su doble naturaleza: **divina y human
 Versículo clave:
 - **Juan 1:14** – "Y aquel Verbo fue hecho carne, y habitó entre nosotros (y vimos su gloria, gloria como del unigénito del Padre), lleno de gracia y de verdad."
 
----
-
 ## **1. Historia de la Unión Hipostática**
 La necesidad de definir la unión de las dos naturalezas en Cristo surge de la aparente contradicción entre su divinidad y humanidad. Tres pasajes clave lo ilustran:
 
@@ -23,8 +21,6 @@ La necesidad de definir la unión de las dos naturalezas en Cristo surge de la a
 - **Ebionitas**: Negaban la divinidad de Cristo y rechazaban su preexistencia.
 - **Docetas**: Afirmaban que Jesús solo tenía una apariencia humana y que sus sufrimientos no fueron reales.
 - **Gnósticos**: Enseñaban que el Cristo trascendente se unió temporalmente a Jesús, pero lo abandonó en la cruz.
-
----
 
 ## **2. Patrística y Desarrollo de la Cristología**
 Los Padres de la Iglesia defendieron la doctrina de la unión hipostática:
@@ -66,8 +62,6 @@ Los Padres de la Iglesia defendieron la doctrina de la unión hipostática:
 - Autor de *La Ciudad de Dios*, *Las Confesiones* y *De Trinitate*.  
 -"El Hijo es igual al Padre y ha sido engendrado desde la eternidad."  
 
----
-
 ## **3. Concilios y Definiciones Dogmáticas**
 - **Concilio de Éfeso (431 d.C.)** – Declaró a María *Theotokos* (Madre de Dios) y condenó a Nestorio, quien separaba a Cristo en dos personas.
 - **Concilio de Calcedonia (451 d.C.)** – Definió la unión hipostática, afirmando que Cristo es:
@@ -75,22 +69,14 @@ Los Padres de la Iglesia defendieron la doctrina de la unión hipostática:
   - Compuesto de un alma racional y un cuerpo.
   - Con dos naturalezas unidas sin confusión ni separación.
 
----
-
 ## **4. Edad Media y Reforma**
 Durante la Edad Media, Tomás de Aquino sistematizó la doctrina en la *Suma Teológica*. En la Reforma, Juan Calvino defendió la unión de las dos naturalezas de Cristo sin mezclarlas.
 
 - **Juan 3:13** – "Nadie ha subido al cielo, sino el que descendió del cielo, el Hijo del Hombre que está en el cielo."
 - **Hechos 20:28** – "Dios adquirió a su Iglesia con su propia sangre."
 
----
-
 ## **5. Conclusión**
 Jesús es el **Dios-hombre**, en quien la divinidad y la humanidad coexisten en una única persona. Su encarnación es el medio por el cual Dios se revela plenamente a la humanidad.
 
 Versículo final:
 - **Juan 1:18** – "A Dios nadie le vio jamás; el unigénito Hijo, que está en el seno del Padre, él le ha dado a conocer."
-
-### Referencia: 
-- Biblia
-- Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos

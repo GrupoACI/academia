@@ -126,13 +126,3 @@ Jesús calmó la tempestad con su palabra:
 35. Resurrección de la hija de Jairo (Mt. 9, 18-26; Mc. 5, 21-43; Lc. 8, 41-56): Jesús resucita a la hija de un líder de la sinagoga, que ya había sido dada por muerta por todos los vecinos y tenía el cortejo fúnebre de la época, con flautistas y músicos que tocaban salmos de lamentaciones.
 36. Resurrección de Lázaro (Jn. 11, 1-44): La resurrección más espectacular, con su difunto amigo Lázaro ya dentro del sepulcro y en estado de descomposición, Jesús la llevó a cabo delante de numerosos testigos, incluidas sus hermanas Marta y María, y también judíos contrarios a Cristo que se conjuraron incluso para dar muerte a Lázaro.
 37. Resurrección de Jesús (Mt. 28, 1-10; Mc. 16, 1-8; Lc. 24, 1-12; Jn. 20, 1-7): Es el milagro por antonomasia: su propia resurrección y ascensión al cielo. Al tercer día después de ser torturado por el flagelo romano, crucificado ante numerosos testigos, y sepultado en una tumba con custodia de soldados judíos, Jesús el nazareno resucitó de entre los muertos y ascendió a los cielos, para no volver a morir nunca más.
-
----
-
-## **4. Conclusión**  
-Los milagros de Jesús confirman su identidad como el Hijo de Dios. Juan afirma que si se escribieran todos sus milagros, “ni aun en el mundo cabrían los libros que se habrían de escribir” (Juan 21:25).
-
-### Referencia: 
-- Biblia
-- Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos
-- https://www.eldebate.com/religion/iglesia/20240903/cuantos-milagros-hizo-jesus-segun-nuevo-testamento_222707.html

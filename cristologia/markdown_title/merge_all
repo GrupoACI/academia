@@ -1,4 +1,5 @@
 for f in $(ls *.md | sort -V); do
     cat "$f" >> all.md
-    echo "" >> all.md   # add a blank line
+    #echo "" >> all.md   # add a blank line
+    echo -e '\n\\pagebreak\n' >> all.md # add a page break
 done

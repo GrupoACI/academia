@@ -30,8 +30,6 @@ La **cristología** es el estudio de la persona y obra de Jesucristo, Hijo de Di
    - La muerte pierde su poder gracias a la resurrección de Cristo:  
      *"¿Dónde está, oh muerte, tu aguijón?"* (1 Corintios 15:55).  
 
----
-
 ## **1. Propósito del Estudio**
 El objetivo de la cristología es presentar el conocimiento detallado sobre Jesucristo en relación con:
 
@@ -41,8 +39,6 @@ El objetivo de la cristología es presentar el conocimiento detallado sobre Jesu
 
 La **soteriología** (doctrina de la salvación) no se entiende sin la cristología. Jesús es el **único mediador** entre Dios y los hombres (1 Timoteo 2:5) y la base de la fe cristiana:  
 *"Si Cristo no resucitó, vuestra fe es vana, aún estáis en vuestros pecados"* (1 Corintios 15:17).  
-
----
 
 ## **2. Bases Fundamentales de la Cristología**
 
@@ -72,8 +68,6 @@ La **soteriología** (doctrina de la salvación) no se entiende sin la cristolog
 4. **Psicología**  
    - Explica emociones de Jesús como tristeza (Juan 11:35) o agonía (Lucas 22:44).  
 
----
-
 ## **3. Metodología**
 
 **Cristología descendente**  
@@ -82,8 +76,6 @@ La **soteriología** (doctrina de la salvación) no se entiende sin la cristolog
      *"En el principio era el Verbo, y el Verbo era con Dios, y el Verbo era Dios"* (Juan 1:1).  
    - La fe en Cristo no es un desarrollo humano, sino una revelación de Dios:  
      *"No te lo reveló carne ni sangre, sino mi Padre que está en los cielos"* (Mateo 16:17).  
-     
----
 
 ## **4. Relación de la Cristología con Otras Disciplinas Teológicas**
 1. **Teología Propia**  
@@ -98,8 +90,6 @@ La **soteriología** (doctrina de la salvación) no se entiende sin la cristolog
    - Cristo es el único Salvador (Hechos 4:12).  
 6. **Eclesiología**  
    - Jesús es la cabeza de la Iglesia (Efesios 1:22-23).  
-   
----
 
 ## **5. Conclusión**
 - La cristología es clave para entender la fe cristiana.  
@@ -107,7 +97,3 @@ La **soteriología** (doctrina de la salvación) no se entiende sin la cristolog
 - Se usará el método descendente para el estudio, basado en la revelación bíblica.  
 
 *"Cristo es en vosotros, esperanza de gloria"* (Colosenses 1:27).  
-
-### Referencia: 
-- Biblia
-- Cristología: Doctrina de la Persona Y Obra de Jesucristo. Samuel Pérez Millos
