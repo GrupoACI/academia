@@ -1,0 +1,1 @@
+pandoc taller2_preexistencia-títulos.md -o temp.pdf -V geometry:margin=1.5cm && pdftoppm -r 300 temp.pdf page -jpeg && convert page-*.jpg output.pdf && rm temp.pdf page-*.jpg

@@ -1,0 +1,2 @@
+pdftk A=cristologia_notas.pdf cat Aodd output odd.pdf
+pdftk A=cristologia_notas.pdf cat Aeven output even.pdf
